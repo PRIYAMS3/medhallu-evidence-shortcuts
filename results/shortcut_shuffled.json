@@ -1,0 +1,6 @@
+{
+  "condition": "shuffled",
+  "macro_f1": 0.9495,
+  "hard_f1": 0.9399,
+  "auroc": 0.9925
+}

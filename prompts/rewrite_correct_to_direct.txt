@@ -1,0 +1,10 @@
+Rewrite the answer below to a biomedical research question.
+
+Keep the meaning and the conclusion exactly the same. Do not add or remove any fact, number, drug, gene, population, mechanism or outcome, and do not correct anything.
+Change only the style: write it as one or two short, direct, declarative sentences in the third person, stating the finding plainly. Do not use first-person words (we, our, us) or phrases such as "this study", "these results", "these findings", "further studies", "may", "might", "could" or "suggest".
+Aim for about {n} words.
+
+Answer:
+{answer}
+
+Rewritten answer:

@@ -1,0 +1,1 @@
+{"condition": "answer_only", "seed": 123, "macro_f1": 0.98, "auroc": 0.9884, "pairwise_acc": 0.986, "correct_flagged": 0.0065}

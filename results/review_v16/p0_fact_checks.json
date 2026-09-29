@@ -1,0 +1,41 @@
+{
+ "provenance": {
+  "questions_found_in_pubmedqa": 1000,
+  "correct_answer_equals_long_answer": 1000,
+  "n": 1000,
+  "example_medhallu": "Results depicted mitochondrial dynamics in vivo as PCD progresses within the lace plant, and highlight the correlation of this organelle with other organelles during developmental PCD. To the best of our knowledge, this is the first report of mitochondria and chloroplasts moving on transvacuolar str",
+  "example_pubmedqa_long_answer": "Results depicted mitochondrial dynamics in vivo as PCD progresses within the lace plant, and highlight the correlation of this organelle with other organelles during developmental PCD. To the best of our knowledge, this is the first report of mitochondria and chloroplasts moving on transvacuolar str"
+ },
+ "zero_shot_nli_candidates": {
+  "phi_gt_0": 0.6919,
+  "argmax_is_contradiction": 0.5758,
+  "not_entailment_argmax": 0.5081
+ },
+ "contradiction_score_auroc": 0.6993,
+ "stored_baselines": {
+  "RoBERTa": {
+   "macro_f1": 0.959,
+   "hard_f1": 0.9546,
+   "auroc": 0.9939,
+   "auprc": 0.9944
+  },
+  "BioBERT": {
+   "macro_f1": 0.9635,
+   "hard_f1": 0.9706,
+   "auroc": 0.9934,
+   "auprc": 0.9936
+  },
+  "Bio_ClinicalBERT": {
+   "macro_f1": 0.9625,
+   "hard_f1": 0.9632,
+   "auroc": 0.9936,
+   "auprc": 0.9941
+  }
+ },
+ "stored_baselines_file": "results_v3_SUPERSEDED.json",
+ "halueval_lengths": {
+  "right_median_words": 2.0,
+  "halluc_median_words": 9.0,
+  "halluc_longer_pct": 95.8
+ }
+}

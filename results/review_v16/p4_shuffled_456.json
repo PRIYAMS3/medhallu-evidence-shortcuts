@@ -1,0 +1,1 @@
+{"condition": "shuffled", "seed": 456, "macro_f1": 0.979, "auroc": 0.9876, "pairwise_acc": 0.9865, "correct_flagged": 0.0095}

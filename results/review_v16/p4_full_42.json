@@ -1,0 +1,1 @@
+{"condition": "full", "seed": 42, "macro_f1": 0.994, "auroc": 0.997, "pairwise_acc": 0.9985, "correct_flagged": 0.002, "test_time_shuffled": {"macro_f1": 0.495, "auroc": 0.9856, "pairwise_acc": 0.9845, "correct_flagged": 0.833}, "test_time_evidence_removed": {"macro_f1": 0.573, "auroc": 0.9864, "pairwise_acc": 0.9835, "correct_flagged": 0.736}}

@@ -1,0 +1,9 @@
+You are checking an answer to a biomedical research question.
+
+Question:
+{q}
+
+Answer:
+{a}
+
+Is the answer correct? Reply with Yes or No only.

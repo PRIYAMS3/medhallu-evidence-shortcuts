@@ -1,0 +1,70 @@
+{
+ "items_dropped": 7,
+ "items_kept": 993,
+ "original": {
+  "tfidf_answer_only": {
+   "macro_f1": 0.9067,
+   "auroc": 0.9742,
+   "pairwise_acc": 0.9809
+  },
+  "biomedbert_answer_only": {
+   "macro_f1": 0.9537,
+   "auroc": 0.992,
+   "pairwise_acc": 0.995
+  },
+  "biomedbert_full": {
+   "macro_f1": 0.9713,
+   "auroc": 0.9963,
+   "pairwise_acc": 0.993
+  },
+  "biomedbert_full_shuffled_evidence": {
+   "macro_f1": 0.6715,
+   "auroc": 0.9854,
+   "pairwise_acc": 0.9849
+  }
+ },
+ "correct_restyled": {
+  "tfidf_answer_only": {
+   "macro_f1": 0.6779,
+   "auroc": 0.8074,
+   "pairwise_acc": 0.8167
+  },
+  "biomedbert_answer_only": {
+   "macro_f1": 0.6852,
+   "auroc": 0.8781,
+   "pairwise_acc": 0.8842
+  },
+  "biomedbert_full": {
+   "macro_f1": 0.7863,
+   "auroc": 0.9459,
+   "pairwise_acc": 0.9527
+  },
+  "biomedbert_full_shuffled_evidence": {
+   "macro_f1": 0.3607,
+   "auroc": 0.8651,
+   "pairwise_acc": 0.8671
+  }
+ },
+ "both_swapped": {
+  "tfidf_answer_only": {
+   "macro_f1": 0.2085,
+   "auroc": 0.0223,
+   "pairwise_acc": 0.0252
+  },
+  "biomedbert_answer_only": {
+   "macro_f1": 0.3693,
+   "auroc": 0.346,
+   "pairwise_acc": 0.3283
+  },
+  "biomedbert_full": {
+   "macro_f1": 0.6488,
+   "auroc": 0.6875,
+   "pairwise_acc": 0.6818
+  },
+  "biomedbert_full_shuffled_evidence": {
+   "macro_f1": 0.3428,
+   "auroc": 0.2877,
+   "pairwise_acc": 0.2679
+  }
+ }
+}

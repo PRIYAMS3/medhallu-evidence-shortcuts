@@ -1,0 +1,7 @@
+# model checkpoints are large; per-seed results and predictions are kept
+**/checkpoint-*/
+*.safetensors
+*.bin
+*.pt
+__pycache__/
+.ipynb_checkpoints/

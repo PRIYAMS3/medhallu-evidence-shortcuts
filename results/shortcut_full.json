@@ -1,0 +1,6 @@
+{
+  "condition": "full",
+  "macro_f1": 0.965,
+  "hard_f1": 0.962,
+  "auroc": 0.9939
+}

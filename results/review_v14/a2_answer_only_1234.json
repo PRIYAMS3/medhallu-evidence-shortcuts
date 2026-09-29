@@ -1,0 +1,8 @@
+{
+  "condition": "answer_only",
+  "seed": 1234,
+  "macro_f1": 0.952,
+  "auroc": 0.9922,
+  "hard_f1": 0.9485,
+  "minutes": 3.2
+}

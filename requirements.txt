@@ -1,0 +1,10 @@
+# Tested on Google Colab (Python 3.12), September 2026.
+torch>=2.4
+transformers>=4.56
+accelerate
+datasets
+scikit-learn
+scipy
+numpy
+pandas
+matplotlib

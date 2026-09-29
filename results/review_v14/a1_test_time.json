@@ -1,0 +1,26 @@
+{
+  "full": {
+    "macro_f1": 0.9715,
+    "auroc": 0.9964,
+    "hard_f1": 0.9706
+  },
+  "evidence_removed": {
+    "macro_f1": 0.8638,
+    "auroc": 0.9762,
+    "hard_f1": 0.852,
+    "pred_changed_vs_full_pct": 13.5,
+    "mean_abs_prob_change": 0.1943
+  },
+  "evidence_shuffled": {
+    "macro_f1": 0.671,
+    "auroc": 0.9855,
+    "hard_f1": 0.6748,
+    "pred_changed_vs_full_pct": 30.8,
+    "mean_abs_prob_change": 0.3071
+  },
+  "answer_removed": {
+    "macro_f1": 0.4265,
+    "auroc": 0.5,
+    "hard_f1": 0.4219
+  }
+}

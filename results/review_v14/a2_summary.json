@@ -1,0 +1,217 @@
+{
+  "per_seed": [
+    {
+      "condition": "full",
+      "seed": 42,
+      "macro_f1": 0.963,
+      "auroc": 0.9936,
+      "hard_f1": 0.9559
+    },
+    {
+      "condition": "full",
+      "seed": 123,
+      "macro_f1": 0.97,
+      "auroc": 0.996,
+      "hard_f1": 0.9694
+    },
+    {
+      "condition": "full",
+      "seed": 456,
+      "macro_f1": 0.9675,
+      "auroc": 0.9932,
+      "hard_f1": 0.9608
+    },
+    {
+      "condition": "full",
+      "seed": 789,
+      "macro_f1": 0.9735,
+      "auroc": 0.9965,
+      "hard_f1": 0.9755
+    },
+    {
+      "condition": "full",
+      "seed": 1234,
+      "macro_f1": 0.963,
+      "auroc": 0.994,
+      "hard_f1": 0.9559
+    },
+    {
+      "condition": "answer_only",
+      "seed": 42,
+      "macro_f1": 0.952,
+      "hard_f1": 0.9485,
+      "auroc": 0.9927
+    },
+    {
+      "condition": "answer_only",
+      "seed": 123,
+      "macro_f1": 0.954,
+      "hard_f1": 0.9546,
+      "auroc": 0.9929
+    },
+    {
+      "condition": "answer_only",
+      "seed": 456,
+      "macro_f1": 0.9495,
+      "hard_f1": 0.9485,
+      "auroc": 0.9922
+    },
+    {
+      "condition": "answer_only",
+      "seed": 789,
+      "macro_f1": 0.9515,
+      "hard_f1": 0.9534,
+      "auroc": 0.9929
+    },
+    {
+      "condition": "answer_only",
+      "seed": 1234,
+      "macro_f1": 0.952,
+      "hard_f1": 0.9485,
+      "auroc": 0.9922
+    },
+    {
+      "condition": "shuffled",
+      "seed": 42,
+      "macro_f1": 0.9495,
+      "hard_f1": 0.9399,
+      "auroc": 0.9925
+    },
+    {
+      "condition": "shuffled",
+      "seed": 123,
+      "macro_f1": 0.9565,
+      "hard_f1": 0.9522,
+      "auroc": 0.9934
+    },
+    {
+      "condition": "shuffled",
+      "seed": 456,
+      "macro_f1": 0.952,
+      "hard_f1": 0.9497,
+      "auroc": 0.9917
+    },
+    {
+      "condition": "shuffled",
+      "seed": 789,
+      "macro_f1": 0.9535,
+      "hard_f1": 0.9546,
+      "auroc": 0.9931
+    },
+    {
+      "condition": "shuffled",
+      "seed": 1234,
+      "macro_f1": 0.9485,
+      "hard_f1": 0.9423,
+      "auroc": 0.9926
+    }
+  ],
+  "summary": {
+    "full": {
+      "macro_f1": {
+        "mean": 0.9674,
+        "sd": 0.0045,
+        "ci95": [
+          0.9618,
+          0.973
+        ]
+      },
+      "hard_f1": {
+        "mean": 0.9635,
+        "sd": 0.0087,
+        "ci95": [
+          0.9527,
+          0.9743
+        ]
+      },
+      "auroc": {
+        "mean": 0.9947,
+        "sd": 0.0015,
+        "ci95": [
+          0.9928,
+          0.9965
+        ]
+      }
+    },
+    "answer_only": {
+      "macro_f1": {
+        "mean": 0.9518,
+        "sd": 0.0016,
+        "ci95": [
+          0.9498,
+          0.9538
+        ]
+      },
+      "hard_f1": {
+        "mean": 0.9507,
+        "sd": 0.003,
+        "ci95": [
+          0.9469,
+          0.9545
+        ]
+      },
+      "auroc": {
+        "mean": 0.9926,
+        "sd": 0.0004,
+        "ci95": [
+          0.9921,
+          0.993
+        ]
+      }
+    },
+    "shuffled": {
+      "macro_f1": {
+        "mean": 0.952,
+        "sd": 0.0032,
+        "ci95": [
+          0.948,
+          0.956
+        ]
+      },
+      "hard_f1": {
+        "mean": 0.9477,
+        "sd": 0.0064,
+        "ci95": [
+          0.9398,
+          0.9556
+        ]
+      },
+      "auroc": {
+        "mean": 0.9927,
+        "sd": 0.0007,
+        "ci95": [
+          0.9919,
+          0.9935
+        ]
+      }
+    }
+  },
+  "paired_vs_full": {
+    "answer_only": {
+      "mean_drop": 0.0156,
+      "ci95": [
+        0.0097,
+        0.0215
+      ],
+      "p": 0.0018,
+      "pct_of_full": 98.4,
+      "pct_of_above_chance": 96.7
+    },
+    "shuffled": {
+      "mean_drop": 0.0154,
+      "ci95": [
+        0.012,
+        0.0188
+      ],
+      "p": 0.0002,
+      "pct_of_full": 98.4,
+      "pct_of_above_chance": 96.7
+    }
+  },
+  "evidence_only_control_seed42": {
+    "condition": "evidence_only",
+    "macro_f1": 0.3333,
+    "hard_f1": 0.3333,
+    "auroc": 0.5
+  }
+}

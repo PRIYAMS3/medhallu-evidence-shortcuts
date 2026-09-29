@@ -1,0 +1,6 @@
+{
+  "condition": "answer_only",
+  "macro_f1": 0.952,
+  "hard_f1": 0.9485,
+  "auroc": 0.9927
+}

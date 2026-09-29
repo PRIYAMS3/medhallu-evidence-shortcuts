@@ -1,0 +1,6 @@
+{
+ "macro_f1": 0.954,
+ "auroc": 0.9921,
+ "pairwise_acc": 0.995,
+ "correct_flagged": 0.069
+}

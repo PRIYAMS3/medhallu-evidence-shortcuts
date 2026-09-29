@@ -1,0 +1,8 @@
+{
+  "condition": "shuffled",
+  "seed": 456,
+  "macro_f1": 0.952,
+  "auroc": 0.9917,
+  "hard_f1": 0.9497,
+  "minutes": 5.5
+}

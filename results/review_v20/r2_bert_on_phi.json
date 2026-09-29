@@ -1,0 +1,157 @@
+{
+ "items": 1000,
+ "phi_correct_restyled": {
+  "tfidf_answer_only": {
+   "macro_f1": 0.7245,
+   "auroc": 0.8411,
+   "pairwise_acc": 0.853,
+   "correct_flagged": 0.405
+  },
+  "full_correct": {
+   "macro_f1": [
+    0.8446,
+    0.0115
+   ],
+   "auroc": [
+    0.9639,
+    0.0029
+   ],
+   "pairwise_acc": [
+    0.9734,
+    0.0029
+   ],
+   "correct_flagged": [
+    0.274,
+    0.0251
+   ]
+  },
+  "full_unrelated": {
+   "macro_f1": [
+    0.6511,
+    0.1384
+   ],
+   "auroc": [
+    0.9031,
+    0.0066
+   ],
+   "pairwise_acc": [
+    0.9184,
+    0.0057
+   ],
+   "correct_flagged": [
+    0.2212,
+    0.3952
+   ]
+  },
+  "answer_only": {
+   "macro_f1": [
+    0.765,
+    0.0135
+   ],
+   "auroc": [
+    0.9193,
+    0.004
+   ],
+   "pairwise_acc": [
+    0.928,
+    0.0056
+   ],
+   "correct_flagged": [
+    0.4248,
+    0.026
+   ]
+  },
+  "gap": {
+   "mean": 0.055,
+   "sd_over_seeds": 0.0048,
+   "per_seed": [
+    0.06,
+    0.054,
+    0.051,
+    0.06,
+    0.05
+   ],
+   "ci95": [
+    0.0432,
+    0.067
+   ]
+  }
+ },
+ "phi_both_swapped": {
+  "tfidf_answer_only": {
+   "macro_f1": 0.2357,
+   "auroc": 0.041,
+   "pairwise_acc": 0.032,
+   "correct_flagged": 0.405
+  },
+  "full_correct": {
+   "macro_f1": [
+    0.7072,
+    0.0287
+   ],
+   "auroc": [
+    0.7628,
+    0.0315
+   ],
+   "pairwise_acc": [
+    0.758,
+    0.0339
+   ],
+   "correct_flagged": [
+    0.274,
+    0.0251
+   ]
+  },
+  "full_unrelated": {
+   "macro_f1": [
+    0.3483,
+    0.0237
+   ],
+   "auroc": [
+    0.3468,
+    0.0601
+   ],
+   "pairwise_acc": [
+    0.346,
+    0.0594
+   ],
+   "correct_flagged": [
+    0.2212,
+    0.3952
+   ]
+  },
+  "answer_only": {
+   "macro_f1": [
+    0.4794,
+    0.0244
+   ],
+   "auroc": [
+    0.4916,
+    0.0359
+   ],
+   "pairwise_acc": [
+    0.4828,
+    0.035
+   ],
+   "correct_flagged": [
+    0.4248,
+    0.026
+   ]
+  },
+  "gap": {
+   "mean": 0.412,
+   "sd_over_seeds": 0.0494,
+   "per_seed": [
+    0.392,
+    0.406,
+    0.455,
+    0.464,
+    0.343
+   ],
+   "ci95": [
+    0.3886,
+    0.4352
+   ]
+  }
+ }
+}

@@ -1,0 +1,18 @@
+{
+  "Misinterpretation": [
+    0.824,
+    0.8375
+  ],
+  "Incomplete info": [
+    0.4755,
+    0.5274
+  ],
+  "Mechanism misattr.": [
+    0.568,
+    0.612
+  ],
+  "Evidence fabric.": [
+    0.0,
+    0.1277
+  ]
+}

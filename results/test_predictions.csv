@@ -1,0 +1,2001 @@
+label,difficulty,htype,phase1_pred,phase1_proba,phase2_pred,phase2_proba
+0,medium,Mechanism and Pathway Misattribution,0,0.0001313518,0,0.0001698940482156057
+1,medium,Mechanism and Pathway Misattribution,1,0.9999467,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.00025613973,0,0.00018159857487702437
+1,hard,Incomplete Information,1,0.99993813,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00016250987,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999542,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00017097399,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99983966,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.0001349925,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.9998981,1,0.9997814398760436
+0,medium,Misinterpretation of #Question#,0,0.005576545,0,0.012479314217244172
+1,medium,Misinterpretation of #Question#,1,0.9999187,1,0.9996855122313498
+0,easy,Misinterpretation of #Question#,0,0.00013658355,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999496,1,0.9996855122313498
+0,hard,Incomplete Information,0,0.00014257943,0,0.000282058825770139
+1,hard,Incomplete Information,1,0.9997029,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00025613973,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999459,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.0001482583,0,0.0001559358858279805
+1,hard,Incomplete Information,1,0.99994004,1,0.9997814398760436
+0,medium,Misinterpretation of #Question#,0,0.00013186583,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.999944,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00014710471,0,0.0001591991159476348
+1,hard,Misinterpretation of #Question#,1,0.999949,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0006563728,0,0.0009328697050809108
+1,easy,Misinterpretation of #Question#,1,0.99994814,1,0.9998071257227927
+0,hard,Misinterpretation of #Question#,0,0.00015936713,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99983716,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.00018342603,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.9999311,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00031750882,0,0.00017372671307506324
+1,easy,Misinterpretation of #Question#,1,0.9999521,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00017130819,0,0.0001559358858279805
+1,medium,Misinterpretation of #Question#,1,0.99994373,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.00024632958,0,0.0002417984500674567
+1,hard,Misinterpretation of #Question#,1,0.9999274,1,0.9997815278376753
+0,hard,Misinterpretation of #Question#,0,0.00020382462,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99944824,1,0.9980942408426707
+0,medium,Misinterpretation of #Question#,0,0.00018667821,0,0.00018159857487702437
+1,medium,Misinterpretation of #Question#,1,0.9999542,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.0001723147,0,9.024216245725633e-05
+1,hard,Misinterpretation of #Question#,0,0.012030543,0,0.04965131459481668
+0,hard,Misinterpretation of #Question#,0,0.00023597175,0,0.00022272125615308786
+1,hard,Misinterpretation of #Question#,1,0.9999337,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00012243443,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.99995255,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.0005092657,0,0.0008037926128671148
+1,medium,Misinterpretation of #Question#,1,0.9999225,1,0.9998131569779988
+0,easy,Misinterpretation of #Question#,0,0.00015967865,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.999956,1,0.9997993955457222
+0,hard,Incomplete Information,0,0.00021111623,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.9997868,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00011412239,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99993575,1,0.9998052307447763
+0,easy,Misinterpretation of #Question#,0,0.060363,0,0.0896041423414745
+1,easy,Misinterpretation of #Question#,0,0.07793769,0,0.14890618075869186
+0,medium,Misinterpretation of #Question#,0,0.00021909605,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999511,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00016474657,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,0,0.0007307537,0,0.0014427278740902765
+0,medium,Misinterpretation of #Question#,0,0.00013819334,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9997677,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.09081609,0,0.07134743871694157
+1,hard,Misinterpretation of #Question#,0,0.33660358,1,0.7285583181165926
+0,hard,Misinterpretation of #Question#,0,0.00015207028,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999424,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00016314579,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999546,1,0.9997993955457222
+0,hard,Incomplete Information,0,0.00017064043,0,0.0001608697576031442
+1,hard,Incomplete Information,1,0.9999162,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0001355208,0,9.876195875563256e-05
+1,hard,Misinterpretation of #Question#,1,0.9999379,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.0002341358,0,0.00018159857487702437
+1,hard,Misinterpretation of #Question#,1,0.99988544,1,0.9998071257227927
+0,easy,Misinterpretation of #Question#,0,0.00016219281,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99994504,1,0.9997814398760436
+0,easy,Incomplete Information,0,0.00015628517,0,0.0001872672361119608
+1,easy,Incomplete Information,1,0.9982658,1,0.9843053261250366
+0,medium,Mechanism and Pathway Misattribution,0,0.00024584908,0,0.000282058825770139
+1,medium,Mechanism and Pathway Misattribution,1,0.9999558,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0010044163,0,0.00140044704950818
+1,hard,Misinterpretation of #Question#,1,0.9999572,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.0012327607,0,0.0020383989231367366
+1,easy,Incomplete Information,1,0.99984336,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,1,0.72744334,0,0.45002389280708666
+1,hard,Misinterpretation of #Question#,1,0.9999299,1,0.9997490294227993
+0,hard,Misinterpretation of #Question#,0,0.00020582441,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999422,1,0.9997490294227993
+0,hard,Misinterpretation of #Question#,0,0.0008710656,0,0.000970814658458022
+1,hard,Misinterpretation of #Question#,1,0.9999541,1,0.9998156297152369
+0,easy,Misinterpretation of #Question#,0,0.00026272482,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.99987805,1,0.9997993955457222
+0,hard,Incomplete Information,0,0.0010775026,0,0.000970814658458022
+1,hard,Incomplete Information,1,0.99994934,1,0.9996855122313498
+0,hard,Misinterpretation of #Question#,0,0.0002203833,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99994993,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00039434477,0,0.00019149175021325658
+1,easy,Misinterpretation of #Question#,1,0.9999542,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00034397095,0,0.0003215959901386685
+1,hard,Misinterpretation of #Question#,1,0.99994457,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.20593424,0,0.1129383384012288
+1,medium,Misinterpretation of #Question#,0,0.08989306,0,0.08671099359660081
+0,hard,Misinterpretation of #Question#,0,0.00029023446,0,0.0001856952348374686
+1,hard,Misinterpretation of #Question#,1,0.9995103,1,0.9980942408426707
+0,hard,Misinterpretation of #Question#,0,0.00013186583,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999459,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00161665,0,0.0021785500460458004
+1,hard,Misinterpretation of #Question#,1,0.9997358,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.0023827618,0,0.005612280252384644
+1,hard,Misinterpretation of #Question#,1,0.999944,1,0.9996855122313498
+0,medium,Incomplete Information,0,0.0005193048,0,0.0010469498594979953
+1,medium,Incomplete Information,1,0.9999535,1,0.9998178777631966
+0,hard,Methodological and Evidence Fabrication,0,0.0032037182,0,0.005802141485059884
+1,hard,Methodological and Evidence Fabrication,1,0.9999515,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00033797944,0,0.00017372671307506324
+1,medium,Misinterpretation of #Question#,1,0.9999541,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00013289992,0,0.00022272125615308786
+1,hard,Misinterpretation of #Question#,1,0.9999503,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00016997529,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999417,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00013873412,0,0.0001872672361119608
+1,medium,Incomplete Information,1,0.99983966,1,0.9997777832536523
+0,hard,Mechanism and Pathway Misattribution,0,0.00022124566,0,0.0001698940482156057
+1,hard,Mechanism and Pathway Misattribution,1,0.9999528,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,1,0.9875923,1,0.6406463627249195
+1,easy,Misinterpretation of #Question#,1,0.9999372,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00014285813,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,0,0.0014131119,0,0.005512197390440707
+0,medium,Misinterpretation of #Question#,0,0.00016219281,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999316,1,0.9998071257227927
+0,medium,Misinterpretation of #Question#,0,0.00017064043,0,0.00033618083525215785
+1,medium,Misinterpretation of #Question#,1,0.9999479,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00015476662,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9996711,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00034196203,0,0.0001856952348374686
+1,easy,Misinterpretation of #Question#,1,0.99991965,1,0.9998178777631966
+0,easy,Mechanism and Pathway Misattribution,0,0.00069867563,0,0.0010469498594979953
+1,easy,Mechanism and Pathway Misattribution,1,0.9999541,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.00014313738,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99992335,1,0.9997309190639649
+0,medium,Incomplete Information,0,0.0001634647,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.87212974,1,0.9095476529121806
+0,hard,Misinterpretation of #Question#,0,0.00012881155,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99995077,1,0.9998071257227927
+0,hard,Misinterpretation of #Question#,0,0.00021194234,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99993134,1,0.9996855122313498
+0,easy,Incomplete Information,0,0.00014257943,0,0.00027950533137174383
+1,easy,Incomplete Information,1,0.99993896,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00021360426,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999558,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00025464367,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99991345,1,0.9997899901143034
+0,easy,Incomplete Information,0,0.000121957164,0,0.0001872672361119608
+1,easy,Incomplete Information,1,0.99992573,1,0.9997243535973631
+0,hard,Incomplete Information,0,0.00017400544,0,0.0001591991159476348
+1,hard,Incomplete Information,0,0.002463007,0,0.009759607563873092
+0,medium,Misinterpretation of #Question#,0,0.00017064043,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999337,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0022606407,0,0.004926008972612323
+1,hard,Misinterpretation of #Question#,1,0.9998104,1,0.9997309190639649
+0,easy,Misinterpretation of #Question#,0,0.0004907226,0,0.000970814658458022
+1,easy,Misinterpretation of #Question#,1,0.9999496,1,0.9998131569779988
+0,medium,Mechanism and Pathway Misattribution,0,0.00014202362,0,0.0001872672361119608
+1,medium,Mechanism and Pathway Misattribution,1,0.9999454,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00015029887,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999459,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00018924748,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999299,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.00013819334,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999522,1,0.9998131569779988
+0,medium,Misinterpretation of #Question#,0,0.00030594572,0,0.0001644988756557988
+1,medium,Misinterpretation of #Question#,1,0.99994993,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00024441312,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,0,0.0020427648,0,0.009759607563873092
+0,hard,Misinterpretation of #Question#,0,0.0002123566,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999461,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.00016766759,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.999949,1,0.9997993955457222
+0,medium,Incomplete Information,0,0.00019487277,0,0.0001559358858279805
+1,medium,Incomplete Information,1,0.9999294,1,0.9998071262308801
+0,medium,Misinterpretation of #Question#,0,0.0002070337,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.999926,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00017709062,0,0.0002041264707589142
+1,medium,Misinterpretation of #Question#,1,0.99995184,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.00014942093,0,0.0001591991159476348
+1,easy,Incomplete Information,1,0.9999521,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00016282752,0,0.00022272125615308786
+1,medium,Misinterpretation of #Question#,1,0.9999517,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00022960827,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99990535,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.00028797647,0,0.00019149175021325658
+1,hard,Misinterpretation of #Question#,1,0.99995387,1,0.9997243535973631
+0,medium,Misinterpretation of #Question#,0,0.0002070337,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.999943,1,0.9997899901143034
+0,medium,Incomplete Information,0,0.00027911883,0,0.00016279055153758712
+1,medium,Incomplete Information,1,0.99986494,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00032062366,0,0.0001644988756557988
+1,hard,Misinterpretation of #Question#,1,0.99989104,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00019949314,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99984455,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00018704312,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9998134,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00013446629,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9997459,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00015628517,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999496,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00018414382,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.99995244,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.00034397095,0,0.00017372671307506324
+1,hard,Incomplete Information,1,0.9999424,1,0.9998071257227927
+0,medium,Incomplete Information,0,0.00018850982,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9999473,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.00043990326,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.9999206,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00017674513,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.999949,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00015659066,0,0.00024263530597815739
+1,medium,Misinterpretation of #Question#,1,0.9999502,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00014313738,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999374,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00016997529,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.999944,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0002178163,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999448,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00025764454,0,0.000282058825770139
+1,easy,Misinterpretation of #Question#,1,0.99995303,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.00016832374,0,0.00020658400657969187
+1,hard,Misinterpretation of #Question#,1,0.9999491,1,0.9998071262308801
+0,hard,Misinterpretation of #Question#,0,0.0001944926,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999039,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00013342002,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999465,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0001603035,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999502,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00024584908,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999496,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0022916892,0,0.006667964919533004
+1,hard,Misinterpretation of #Question#,1,0.9999454,1,0.9998156297152369
+0,easy,Misinterpretation of #Question#,0,0.00013394213,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999485,1,0.9997428618286696
+0,medium,Incomplete Information,0,0.00023597175,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9999535,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00045652693,0,0.00019149175021325658
+1,medium,Misinterpretation of #Question#,1,0.99991965,1,0.9997814398760436
+0,hard,Mechanism and Pathway Misattribution,0,0.00015967865,0,0.0001698940482156057
+1,hard,Mechanism and Pathway Misattribution,1,0.9999522,1,0.9996855122313498
+0,easy,Incomplete Information,0,0.00015386257,0,0.0001872672361119608
+1,easy,Incomplete Information,1,0.9999502,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00014539114,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,0,0.020984294,0,0.07948417023800675
+0,easy,Incomplete Information,0,0.0001896174,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.9998722,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00043563012,0,0.0001856952348374686
+1,easy,Misinterpretation of #Question#,1,0.9999362,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00033015275,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.99995387,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0004222329,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.99983203,1,0.999914587321858
+0,easy,Incomplete Information,0,0.00012006662,0,0.0001872672361119608
+1,easy,Incomplete Information,1,0.99983454,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0009773503,0,0.000970814658458022
+1,easy,Misinterpretation of #Question#,1,0.99952805,1,0.9985934022567787
+0,easy,Misinterpretation of #Question#,0,0.00017097399,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,0,0.091544405,0,0.06284718407654505
+0,hard,Misinterpretation of #Question#,0,0.00019222713,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99994636,1,0.9997732887940337
+0,hard,Misinterpretation of #Question#,0,0.00019910395,0,0.0001591991159476348
+1,hard,Misinterpretation of #Question#,1,0.99987173,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00025764454,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99990976,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.00026895344,0,0.0001591991159476348
+1,easy,Misinterpretation of #Question#,1,0.99994504,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.00014091855,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99995387,1,0.9998156297152369
+0,hard,Misinterpretation of #Question#,0,0.00015059269,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9997594,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.00047842565,0,0.00017372671307506324
+1,hard,Incomplete Information,1,0.9999442,1,0.9998156297152369
+0,hard,Misinterpretation of #Question#,0,0.0001210082,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999043,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.00025020776,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99990046,1,0.9998178777631966
+0,medium,Mechanism and Pathway Misattribution,0,0.0002070337,0,0.0001698940482156057
+1,medium,Mechanism and Pathway Misattribution,1,0.9999503,1,0.9998178777631966
+0,medium,Mechanism and Pathway Misattribution,0,0.0001802305,0,0.0001698940482156057
+1,medium,Mechanism and Pathway Misattribution,1,0.9999509,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00015874591,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,0,0.00035488585,0,0.0001978864501662333
+0,hard,Misinterpretation of #Question#,0,0.00034464317,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.9999505,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.00052747846,0,0.0012777651257107794
+1,medium,Misinterpretation of #Question#,0,0.00032125026,0,0.0001856952348374686
+0,hard,Incomplete Information,0,0.00041084853,0,0.00019149175021325658
+1,hard,Incomplete Information,1,0.99994266,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00019988307,0,0.00018159857487702437
+1,medium,Misinterpretation of #Question#,1,0.9999535,1,0.9997732887940337
+0,easy,Incomplete Information,0,0.00022782185,0,0.0001872672361119608
+1,easy,Incomplete Information,1,0.9999443,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00047101182,0,0.0001856952348374686
+1,medium,Misinterpretation of #Question#,1,0.99994504,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00019260288,0,0.00033618083525215785
+1,hard,Misinterpretation of #Question#,1,0.9999546,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0018895386,0,0.003450436921201961
+1,medium,Misinterpretation of #Question#,1,0.99995637,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00012484893,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99995446,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.00014739226,0,0.0001872672361119608
+1,easy,Incomplete Information,1,0.99995255,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00023322323,0,0.00020658400657969187
+1,easy,Misinterpretation of #Question#,1,0.9999528,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0011247573,0,0.0010163022240488428
+1,hard,Misinterpretation of #Question#,1,0.999944,1,0.9997777832536523
+0,easy,Incomplete Information,0,0.00025464367,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.9999385,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00022298051,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999367,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00016314579,0,0.000282058825770139
+1,hard,Incomplete Information,1,0.9999094,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00024298552,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99977654,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.008299687,0,0.01650636324753461
+1,easy,Misinterpretation of #Question#,1,0.9791955,0,0.1286433299086093
+0,hard,Misinterpretation of #Question#,0,0.00017298904,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99994636,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00014482439,0,0.00018159857487702437
+1,hard,Misinterpretation of #Question#,1,0.99995184,1,0.9998071262308801
+0,medium,Misinterpretation of #Question#,0,0.00014369751,0,0.0001591991159476348
+1,medium,Misinterpretation of #Question#,1,0.9999542,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0012768145,0,0.0032415904938063447
+1,easy,Misinterpretation of #Question#,1,0.99962735,1,0.9988578420029454
+0,medium,Misinterpretation of #Question#,0,0.0028173407,0,0.011277172317787404
+1,medium,Misinterpretation of #Question#,1,0.99963737,1,0.9985934022567787
+0,medium,Misinterpretation of #Question#,1,0.99837387,1,0.9589671489335883
+1,medium,Misinterpretation of #Question#,1,0.9999496,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.0009528706,0,0.0019960615207431625
+1,hard,Misinterpretation of #Question#,1,0.99959,1,0.9978852230217324
+0,medium,Misinterpretation of #Question#,0,0.00020342699,0,0.0001935208894077136
+1,medium,Misinterpretation of #Question#,1,0.99976176,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00016766759,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.99992394,1,0.9996855122313498
+0,easy,Misinterpretation of #Question#,0,0.0001514775,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99995255,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0004305571,0,0.00017372671307506324
+1,easy,Misinterpretation of #Question#,1,0.99992216,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.00012830943,0,0.0001591991159476348
+1,easy,Incomplete Information,1,0.99994874,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.0009199836,0,0.0010469498594979953
+1,medium,Misinterpretation of #Question#,1,0.9999471,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00015781863,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999362,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00034196203,0,0.00019149175021325658
+1,easy,Misinterpretation of #Question#,1,0.999941,1,0.9997899901143034
+0,easy,Incomplete Information,0,0.0001888783,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.9999316,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.0005736653,0,0.0008037926128671148
+1,easy,Misinterpretation of #Question#,1,0.999941,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.000110611596,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999505,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0018243828,0,0.0021338013585657403
+1,hard,Misinterpretation of #Question#,1,0.9993013,1,0.9980942408426707
+0,hard,Incomplete Information,0,0.352982,0,0.16160245467102835
+1,hard,Incomplete Information,1,0.99993026,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00014653131,0,0.00033618083525215785
+1,hard,Misinterpretation of #Question#,1,0.9999479,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00018486439,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999471,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.000141194,0,0.0001559358858279805
+1,medium,Misinterpretation of #Question#,1,0.999949,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.000109323075,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999403,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00013238186,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99994874,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.00030594572,0,0.00017372671307506324
+1,hard,Incomplete Information,1,0.9998385,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00020223875,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9999118,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.0006178345,0,0.0005645384646472498
+1,hard,Incomplete Information,1,0.9999509,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00025764454,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999497,1,0.9996855122313498
+0,hard,Incomplete Information,0,0.00015874591,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.9999392,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00037263767,0,0.0002112441907390991
+1,easy,Misinterpretation of #Question#,1,0.99994123,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.019124037,0,0.10740565566389942
+1,medium,Misinterpretation of #Question#,1,0.9999517,1,0.9996855122313498
+0,easy,Incomplete Information,0,0.00019949314,0,0.00020658400657969187
+1,easy,Incomplete Information,1,0.9999387,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00016156059,0,0.0001608697576031442
+1,hard,Misinterpretation of #Question#,1,0.99994504,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00012681478,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999335,1,0.9998071257227927
+0,medium,Misinterpretation of #Question#,0,0.00014942093,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999541,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,1,0.9984812,1,0.9476308796663921
+1,hard,Misinterpretation of #Question#,1,0.99952996,1,0.9985934022567787
+0,hard,Incomplete Information,0,0.00024489083,0,0.0001698940482156057
+1,hard,Incomplete Information,0,0.0011138391,0,0.0010960008298612496
+0,medium,Misinterpretation of #Question#,0,0.00016865275,0,0.00022272125615308786
+1,medium,Misinterpretation of #Question#,1,0.9999565,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00024015535,0,0.00027950533137174383
+1,hard,Misinterpretation of #Question#,1,0.99994934,1,0.9997490294227993
+0,medium,Misinterpretation of #Question#,0,0.00015999078,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99995077,1,0.9996855122313498
+0,hard,Misinterpretation of #Question#,0,0.00084924564,0,0.0010415958821460545
+1,hard,Misinterpretation of #Question#,1,0.9998517,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.0012818055,0,0.0021338013585657403
+1,hard,Incomplete Information,1,0.9999509,1,0.9998157634663243
+0,hard,Misinterpretation of #Question#,0,0.00015236756,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99992657,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00028462242,0,0.00017372671307506324
+1,easy,Misinterpretation of #Question#,1,0.99987566,1,0.999732540687926
+0,medium,Incomplete Information,1,0.9969663,1,0.9512063673093788
+1,medium,Incomplete Information,1,0.99991775,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00011147904,0,0.0001591991159476348
+1,hard,Misinterpretation of #Question#,1,0.9997918,1,0.9998052307447763
+0,hard,Incomplete Information,0,0.00015659066,0,0.0001935208894077136
+1,hard,Incomplete Information,1,0.9999534,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00016997529,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99994504,1,0.9996855122313498
+0,hard,Misinterpretation of #Question#,0,0.007876707,0,0.037859251782481264
+1,hard,Misinterpretation of #Question#,1,0.99993265,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0009850082,0,0.0009192868491849465
+1,hard,Misinterpretation of #Question#,1,0.99993074,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00014768039,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99995697,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00012881155,0,0.00022272125615308786
+1,medium,Misinterpretation of #Question#,1,0.999944,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00013083976,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999541,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.000390514,0,0.00019149175021325658
+1,medium,Misinterpretation of #Question#,1,0.8893848,1,0.9095476529121806
+0,hard,Misinterpretation of #Question#,0,0.00022516826,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99994755,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.004876887,0,0.010670313762716594
+1,hard,Misinterpretation of #Question#,1,0.9999467,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.0001603035,0,0.00027950533137174383
+1,medium,Misinterpretation of #Question#,1,0.9999324,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00013446629,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999515,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.0011879054,0,0.0020383989231367366
+1,medium,Misinterpretation of #Question#,1,0.99991655,1,0.999536354422926
+0,medium,Misinterpretation of #Question#,0,0.0004100472,0,0.0001978864501662333
+1,medium,Misinterpretation of #Question#,1,0.99994457,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00014425987,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.99994636,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.00023050672,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999155,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.0008263576,0,0.0008037926128671148
+1,hard,Misinterpretation of #Question#,1,0.99994564,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00016898241,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9999534,1,0.9996855122313498
+0,hard,Misinterpretation of #Question#,0,0.00017298904,0,0.00022272125615308786
+1,hard,Misinterpretation of #Question#,1,0.9999515,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00020422302,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99994326,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00011774459,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99995637,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00023968687,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99991655,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.0022562398,0,0.005612280252384644
+1,hard,Incomplete Information,1,0.99994814,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00013658355,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.999949,1,0.9997899901143034
+0,medium,Incomplete Information,0,0.00016378422,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.99915576,1,0.9890249766600174
+0,medium,Misinterpretation of #Question#,0,0.00019755481,0,0.000282058825770139
+1,medium,Misinterpretation of #Question#,1,0.99988496,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00018814208,0,0.0001559358858279805
+1,easy,Misinterpretation of #Question#,1,0.999941,1,0.9998178777631966
+0,hard,Mechanism and Pathway Misattribution,0,0.000115919334,0,0.0001698940482156057
+1,hard,Mechanism and Pathway Misattribution,1,0.9999467,1,0.9997993955457222
+0,hard,Incomplete Information,0,0.00019871556,0,0.0001935208894077136
+1,hard,Incomplete Information,1,0.9999349,1,0.9997993955457222
+0,hard,Incomplete Information,0,0.00021194234,0,0.0001935208894077136
+1,hard,Incomplete Information,1,0.9999509,1,0.9997814398760436
+0,medium,Misinterpretation of #Question#,0,0.00023050672,0,0.00020658400657969187
+1,medium,Misinterpretation of #Question#,1,0.9999442,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.00013446629,0,0.000282058825770139
+1,easy,Misinterpretation of #Question#,1,0.99994874,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00015476662,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.99993443,1,0.9997309190639649
+0,hard,Incomplete Information,0,0.00014091855,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.99994874,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.00015177361,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999541,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00015029887,0,0.00016500543417142415
+1,medium,Misinterpretation of #Question#,1,0.99963665,1,0.998179466093865
+0,medium,Mechanism and Pathway Misattribution,0,0.00019794097,0,0.0001698940482156057
+1,medium,Mechanism and Pathway Misattribution,1,0.9999541,1,0.9996855122313498
+0,hard,Misinterpretation of #Question#,0,0.00018414382,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99995446,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00013394213,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99994266,1,0.9996855122313498
+0,hard,Incomplete Information,0,0.00013289992,0,0.000282058825770139
+1,hard,Incomplete Information,1,0.999943,1,0.9997993955457222
+0,medium,Incomplete Information,0,0.0004181313,0,0.00017372671307506324
+1,medium,Incomplete Information,1,0.999949,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00019147785,0,0.00018777774556824546
+1,medium,Misinterpretation of #Question#,1,0.99994934,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.00013765463,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99984026,1,0.9996855122313498
+0,easy,Misinterpretation of #Question#,0,0.00013032975,0,0.00018159857487702437
+1,easy,Misinterpretation of #Question#,1,0.99992096,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00018378458,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99995255,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.00016898241,0,0.00022818938258549912
+1,medium,Misinterpretation of #Question#,1,0.9999528,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00022693387,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.999884,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0016420666,0,0.0020383989231367366
+1,medium,Misinterpretation of #Question#,1,0.99920684,1,0.9835675228003129
+0,medium,Misinterpretation of #Question#,0,0.0001451075,0,0.0001559358858279805
+1,medium,Misinterpretation of #Question#,1,0.9999503,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00017332718,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999496,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00035006859,0,0.00016279055153758712
+1,hard,Misinterpretation of #Question#,1,0.998784,1,0.9698833340677377
+0,hard,Misinterpretation of #Question#,0,0.00016442515,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999392,1,0.9997777832536523
+0,easy,Incomplete Information,0,0.00012436225,0,0.00027950533137174383
+1,easy,Incomplete Information,1,0.9998889,1,0.9997428618286696
+0,hard,Incomplete Information,0,0.0014158707,0,0.0020383989231367366
+1,hard,Incomplete Information,1,0.9999114,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00013446629,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99993527,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0021827165,0,0.013358228126804803
+1,hard,Misinterpretation of #Question#,1,0.9995802,1,0.9985934022567787
+0,easy,Misinterpretation of #Question#,0,0.0017996542,0,0.00401863786308135
+1,easy,Misinterpretation of #Question#,0,0.0014607495,0,0.005512197390440707
+0,hard,Incomplete Information,0,0.00012291357,0,0.00020658400657969187
+1,hard,Incomplete Information,1,0.99993694,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00021696732,0,0.00020658400657969187
+1,easy,Misinterpretation of #Question#,1,0.99947053,1,0.9980942408426707
+0,medium,Misinterpretation of #Question#,0,0.0003047533,0,0.0003215959901386685
+1,medium,Misinterpretation of #Question#,1,0.99994195,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00044682765,0,0.00019149175021325658
+1,medium,Misinterpretation of #Question#,1,0.999071,1,0.984200239842806
+0,hard,Incomplete Information,0,0.00019185213,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.99995947,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00013394213,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99995244,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.000235052,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.99994636,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.0004812358,0,0.00019149175021325658
+1,easy,Misinterpretation of #Question#,1,0.9999502,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00013711804,0,0.00020658400657969187
+1,easy,Misinterpretation of #Question#,1,0.99994326,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00041731578,0,0.0001687278346775232
+1,hard,Misinterpretation of #Question#,1,0.99995446,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00017265153,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999509,1,0.9996855122313498
+0,easy,Incomplete Information,0,0.00020223875,0,0.0001872672361119608
+1,easy,Incomplete Information,1,0.99821436,1,0.9843053261250366
+0,medium,Misinterpretation of #Question#,0,0.0002874147,0,0.00017372671307506324
+1,medium,Misinterpretation of #Question#,1,0.9999454,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00012484893,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99995494,1,0.9996855122313498
+0,hard,Misinterpretation of #Question#,0,0.00020382462,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999467,1,0.9998178777631966
+0,hard,Mechanism and Pathway Misattribution,0,0.00026582094,0,0.00027950533137174383
+1,hard,Mechanism and Pathway Misattribution,1,0.9999553,1,0.9996462335616744
+0,hard,Misinterpretation of #Question#,0,0.00012931562,0,0.00048713058174385064
+1,hard,Misinterpretation of #Question#,1,0.99995315,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00019335657,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999515,1,0.9996855122313498
+0,medium,Incomplete Information,0,0.00012148176,0,0.0001872672361119608
+1,medium,Incomplete Information,1,0.9991474,1,0.9848974009144484
+0,hard,Incomplete Information,0,0.00012830943,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.9999517,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00012006662,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.99916065,1,0.979687530836713
+0,hard,Misinterpretation of #Question#,0,0.00016832374,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999485,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.00017332718,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.9999435,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.0012448432,0,0.0016880166210220659
+1,hard,Misinterpretation of #Question#,1,0.99983656,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.0001907315,0,0.00022272125615308786
+1,medium,Misinterpretation of #Question#,1,0.99993944,1,0.9997899901143034
+0,easy,Incomplete Information,0,0.00021152887,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.9999367,1,0.9997814398760436
+0,hard,Incomplete Information,0,0.00014912941,0,0.00027950533137174383
+1,hard,Incomplete Information,1,0.9999316,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.00013873412,0,0.00027950533137174383
+1,easy,Incomplete Information,1,0.99993944,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.0008525667,0,0.0009192868491849465
+1,easy,Misinterpretation of #Question#,1,0.9999497,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00031627133,0,0.00019149175021325658
+1,medium,Incomplete Information,1,0.9995505,1,0.997942872524515
+0,easy,Misinterpretation of #Question#,0,0.00024393632,0,0.000282058825770139
+1,easy,Misinterpretation of #Question#,1,0.9999417,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00016061685,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999552,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.000390514,0,0.0001856952348374686
+1,medium,Misinterpretation of #Question#,1,0.9999509,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00021612163,0,0.0001608697576031442
+1,medium,Misinterpretation of #Question#,1,0.99995375,1,0.9997899901143034
+0,easy,Incomplete Information,0,0.00025118678,0,0.00013034322920886954
+1,easy,Incomplete Information,1,0.99995244,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.00015088705,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.99993396,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00012148176,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99994755,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.00024251152,0,0.0002020066964180827
+1,medium,Misinterpretation of #Question#,1,0.9998965,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0002988606,0,0.00038330156077008776
+1,easy,Misinterpretation of #Question#,1,0.99993443,1,0.9998131569779988
+0,medium,Misinterpretation of #Question#,0,0.00015598026,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999491,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00024971965,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999367,1,0.9996855122313498
+0,easy,Misinterpretation of #Question#,0,0.00045209235,0,0.00019149175021325658
+1,easy,Misinterpretation of #Question#,1,0.9999534,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00023735811,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999237,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00020066522,0,0.00033507366260831123
+1,hard,Misinterpretation of #Question#,1,0.99995613,1,0.9997814398760436
+0,hard,Incomplete Information,0,0.0005714301,0,0.0009328697050809108
+1,hard,Incomplete Information,1,0.99993527,1,0.9998238870624663
+0,hard,Incomplete Information,0,0.00048785715,0,0.0
+1,hard,Incomplete Information,1,0.99990726,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00016636301,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999553,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0076956474,0,0.037859251782481264
+1,hard,Misinterpretation of #Question#,1,0.99980515,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00022298051,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99994993,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00015446468,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99994695,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00028573602,0,0.0003186846776693593
+1,hard,Incomplete Information,1,0.99972945,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.000118205375,0,0.00022272125615308786
+1,hard,Incomplete Information,1,0.999943,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.00017571275,0,0.000282058825770139
+1,medium,Misinterpretation of #Question#,1,0.99776995,1,0.9785656620933927
+0,hard,Misinterpretation of #Question#,0,0.0004140695,0,0.0001978864501662333
+1,hard,Misinterpretation of #Question#,1,0.99995303,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.00016766759,0,0.0001608697576031442
+1,medium,Misinterpretation of #Question#,1,0.9999274,1,0.9997899901143034
+0,easy,Incomplete Information,0,0.00017917773,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.9998029,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00015059269,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999125,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00015812712,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.999332,1,0.9982495058892459
+0,medium,Misinterpretation of #Question#,0,0.00013186583,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999497,1,0.9997993955457222
+0,medium,Incomplete Information,0,0.00011546747,0,0.0001872672361119608
+1,medium,Incomplete Information,1,0.9999478,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.00015628517,0,0.00018159857487702437
+1,medium,Misinterpretation of #Question#,1,0.9999521,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.0005368274,0,0.0010919512971343467
+1,medium,Incomplete Information,1,0.9993917,1,0.9985934022567787
+0,easy,Misinterpretation of #Question#,0,0.000121957164,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99993956,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.0014325365,0,0.0023875121813926523
+1,hard,Misinterpretation of #Question#,1,0.9999428,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.0002221114,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99994934,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00011913237,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999496,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00028797647,0,0.00017372671307506324
+1,easy,Misinterpretation of #Question#,1,0.99995255,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.00013605112,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.99302894,1,0.5788984250965654
+0,hard,Misinterpretation of #Question#,0,0.00017536995,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9998809,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00014710471,0,0.00018159857487702437
+1,hard,Misinterpretation of #Question#,1,0.99986863,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00032567108,0,0.00019149175021325658
+1,hard,Misinterpretation of #Question#,1,0.9999515,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00013873412,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9998511,1,0.9998131569779988
+0,easy,Misinterpretation of #Question#,0,0.00017164306,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99995375,1,0.9998317183928775
+0,medium,Misinterpretation of #Question#,0,0.00014596009,0,9.064733973793681e-05
+1,medium,Misinterpretation of #Question#,1,0.99995613,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00022516826,0,0.00020658400657969187
+1,easy,Misinterpretation of #Question#,1,0.9999428,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00012484893,0,0.00020685280550720688
+1,hard,Misinterpretation of #Question#,1,0.9997483,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00020382462,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999448,1,0.9996855122313498
+0,hard,Incomplete Information,0,0.0024296434,0,0.013358228126804803
+1,hard,Incomplete Information,1,0.99916387,1,0.9854724389095764
+0,easy,Misinterpretation of #Question#,0,0.00042804275,0,0.00019149175021325658
+1,easy,Misinterpretation of #Question#,1,0.99994457,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.0001666882,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99995184,1,0.9997899901143034
+0,easy,Incomplete Information,0,0.00017536995,0,0.00020658400657969187
+1,easy,Incomplete Information,1,0.9999387,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0003089472,0,0.00015945371666406234
+1,medium,Misinterpretation of #Question#,1,0.9999132,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.0031358358,0,0.005802141485059884
+1,medium,Misinterpretation of #Question#,1,0.99995387,1,0.9997814398760436
+0,easy,Incomplete Information,0,0.00031015597,0,0.0002115190520308315
+1,easy,Incomplete Information,1,0.99993134,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00013765463,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999517,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.00017709062,0,0.0001559358858279805
+1,easy,Misinterpretation of #Question#,1,0.99991906,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00015936713,0,0.00022272125615308786
+1,hard,Incomplete Information,1,0.999943,1,0.9997428618286696
+0,medium,Incomplete Information,1,0.85717136,1,0.9095476529121806
+1,medium,Incomplete Information,1,0.9999471,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.0004955359,0,0.0010919512971343467
+1,medium,Misinterpretation of #Question#,1,0.9999107,1,0.9996855122313498
+0,easy,Misinterpretation of #Question#,0,0.00034802416,0,0.0003186846776693593
+1,easy,Misinterpretation of #Question#,1,0.9998623,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00012387747,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999448,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00014710471,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99995077,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0025608707,0,0.011277172317787404
+1,easy,Misinterpretation of #Question#,1,0.9999473,1,0.9997814398760436
+0,hard,Incomplete Information,0,0.00015029887,0,0.0003695310107642616
+1,hard,Incomplete Information,1,0.99583375,1,0.8764141613080364
+0,easy,Misinterpretation of #Question#,0,0.00017064043,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.99970514,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.00017847933,0,0.00018159857487702437
+1,easy,Misinterpretation of #Question#,1,0.99995244,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0001313518,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99993944,1,0.9997899901143034
+0,medium,Incomplete Information,0,0.00018522574,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9921841,1,0.5255589754685536
+0,hard,Incomplete Information,0,0.00014768039,0,0.00022272125615308786
+1,hard,Incomplete Information,1,0.9980506,1,0.9785656620933927
+0,medium,Misinterpretation of #Question#,0,0.000854232,0,0.0008037926128671148
+1,medium,Misinterpretation of #Question#,1,0.9999125,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00019755481,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999521,1,0.9996855122313498
+0,hard,Misinterpretation of #Question#,0,0.00050530455,0,0.0010376398196237208
+1,hard,Misinterpretation of #Question#,1,0.9999329,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00047377846,0,0.0002112441907390991
+1,medium,Misinterpretation of #Question#,1,0.9999453,1,0.9998157634663243
+0,medium,Incomplete Information,0,0.00029653555,0,0.0001856952348374686
+1,medium,Incomplete Information,1,0.9999424,1,0.9998131569779988
+0,hard,Misinterpretation of #Question#,0,0.00018378458,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99994814,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.00015689676,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99994564,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.0001788282,0,0.00027950533137174383
+1,easy,Misinterpretation of #Question#,1,0.9999505,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00031937406,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.9999249,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00041650186,0,0.00019149175021325658
+1,hard,Misinterpretation of #Question#,0,0.03778577,0,0.07948417023800675
+0,hard,Misinterpretation of #Question#,0,0.00010595991,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99991846,1,0.9997877352613186
+0,hard,Misinterpretation of #Question#,0,0.00012243443,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999522,1,0.9998156297152369
+0,medium,Misinterpretation of #Question#,0,0.0001896174,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99994075,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00021909605,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999405,1,0.9997877352613186
+0,medium,Misinterpretation of #Question#,0,0.045777272,0,0.11782024397683208
+1,medium,Misinterpretation of #Question#,1,0.9987405,1,0.9589671489335883
+0,easy,Incomplete Information,0,0.0001532628,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.9999362,1,0.9997899901143034
+0,medium,Incomplete Information,0,0.0005517006,0,0.0012668656732517053
+1,medium,Incomplete Information,0,0.0004601059,0,0.00017372671307506324
+0,medium,Misinterpretation of #Question#,0,0.0008710656,0,0.0010163022240488428
+1,medium,Misinterpretation of #Question#,1,0.9999535,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00019035942,0,0.0003695310107642616
+1,hard,Misinterpretation of #Question#,1,0.99993026,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00035697062,0,0.0002112441907390991
+1,easy,Misinterpretation of #Question#,1,0.9999515,1,0.9996855122313498
+0,medium,Incomplete Information,0,0.00016799536,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9999443,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00018271105,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999505,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00021111623,0,0.00033618083525215785
+1,easy,Misinterpretation of #Question#,1,0.99995387,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00048029723,0,0.0001644988756557988
+1,hard,Misinterpretation of #Question#,1,0.9993135,1,0.9988578420029454
+0,easy,Incomplete Information,0,0.00016766759,0,0.0001872672361119608
+1,easy,Incomplete Information,1,0.999926,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0008119704,0,0.0008037926128671148
+1,medium,Misinterpretation of #Question#,1,0.9981578,1,0.945117657119029
+0,hard,Incomplete Information,0,0.00021029334,0,0.0001608697576031442
+1,hard,Incomplete Information,1,0.9996989,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00021070437,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99991655,1,0.9997899901143034
+0,medium,Incomplete Information,0,0.0048391186,0,0.010670313762716594
+1,medium,Incomplete Information,1,0.9998313,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00018342603,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9999484,1,0.9998156297152369
+0,easy,Misinterpretation of #Question#,0,0.00029137006,0,0.00017372671307506324
+1,easy,Misinterpretation of #Question#,1,0.9998629,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.0005838325,0,0.0011057008244139748
+1,easy,Misinterpretation of #Question#,1,0.99990904,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00020422302,0,0.00033618083525215785
+1,easy,Misinterpretation of #Question#,1,0.99995124,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00041568946,0,0.00022774538631930005
+1,easy,Misinterpretation of #Question#,0,0.03807084,0,0.09577269239900689
+0,hard,Misinterpretation of #Question#,0,0.00015266538,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999515,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.0001830682,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999522,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00026842885,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.99995244,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00012881155,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9998863,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00020422302,0,0.0001608697576031442
+1,easy,Misinterpretation of #Question#,1,0.9999509,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0001349925,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9998517,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00029537978,0,0.0002112441907390991
+1,hard,Misinterpretation of #Question#,1,0.99986756,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0005826939,0,0.000970814658458022
+1,medium,Misinterpretation of #Question#,1,0.9999372,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.0031236487,0,0.0046296658580267
+1,medium,Misinterpretation of #Question#,1,0.9999255,1,0.9995564789714281
+0,hard,Misinterpretation of #Question#,0,0.0007748164,0,0.000970814658458022
+1,hard,Misinterpretation of #Question#,1,0.99967945,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00014539114,0,0.00022272125615308786
+1,hard,Misinterpretation of #Question#,1,0.9986646,1,0.9839488618229218
+0,medium,Misinterpretation of #Question#,0,0.000121957164,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999505,1,0.9998131569779988
+0,medium,Misinterpretation of #Question#,0,0.00016506859,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99989605,1,0.9998131569779988
+0,medium,Misinterpretation of #Question#,0,0.00066800485,0,0.0008037926128671148
+1,medium,Misinterpretation of #Question#,1,0.9999428,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00042388475,0,0.0001920137739112038
+1,easy,Misinterpretation of #Question#,1,0.99966,1,0.9988578420029454
+0,hard,Misinterpretation of #Question#,0,0.005922557,0,0.010670313762716594
+1,hard,Misinterpretation of #Question#,1,0.9998517,1,0.9998157634663243
+0,hard,Incomplete Information,0,0.00030179258,0,0.00017372671307506324
+1,hard,Incomplete Information,1,0.9999132,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.000782414,0,0.0010919512971343467
+1,hard,Misinterpretation of #Question#,1,0.9980083,1,0.9524477784450033
+0,easy,Misinterpretation of #Question#,0,0.00014768039,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999509,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.0003077431,0,0.00017372671307506324
+1,medium,Misinterpretation of #Question#,1,0.99994123,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00017164306,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99994504,1,0.9998071257227927
+0,hard,Incomplete Information,0,0.00012881155,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.9999355,1,0.9997815278376753
+0,hard,Misinterpretation of #Question#,0,0.012359919,0,0.3704752439977884
+1,hard,Misinterpretation of #Question#,1,0.9999522,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00017265153,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999502,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.0013831175,0,0.0021785500460458004
+1,hard,Misinterpretation of #Question#,1,0.9998889,1,0.9998362359372104
+0,medium,Misinterpretation of #Question#,0,0.00012681478,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.999941,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.010328153,0,0.38423771367649273
+1,hard,Incomplete Information,1,0.9999505,1,0.9996855122313498
+0,hard,Misinterpretation of #Question#,0,0.00016636301,0,0.00027950533137174383
+1,hard,Misinterpretation of #Question#,1,0.99994695,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00015905623,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99993944,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00015936713,0,0.0001935208894077136
+1,medium,Misinterpretation of #Question#,1,0.99994993,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00015751073,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99994266,1,0.9997899901143034
+0,hard,Mechanism and Pathway Misattribution,0,0.00014854812,0,0.0001872672361119608
+1,hard,Mechanism and Pathway Misattribution,1,0.9999515,1,0.9996855122313498
+0,medium,Incomplete Information,0,0.012359919,0,0.3704752439977884
+1,medium,Incomplete Information,1,0.9999485,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.06424133,0,0.0808332561428367
+1,hard,Misinterpretation of #Question#,1,0.99994457,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.00026017232,0,0.0001559358858279805
+1,hard,Incomplete Information,1,0.99975175,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.12064587,0,0.1696352484318472
+1,hard,Misinterpretation of #Question#,1,0.9999509,1,0.9998178777631966
+0,medium,Mechanism and Pathway Misattribution,0,0.00019110434,0,0.0001872672361119608
+1,medium,Mechanism and Pathway Misattribution,1,0.99995244,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.00015999078,0,0.00027950533137174383
+1,hard,Misinterpretation of #Question#,1,0.99994814,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00029827765,0,0.00019149175021325658
+1,medium,Misinterpretation of #Question#,1,0.99994075,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0011030266,0,0.0014427278740902765
+1,hard,Misinterpretation of #Question#,1,0.99944824,1,0.9988578420029454
+0,easy,Misinterpretation of #Question#,0,0.00013819334,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99994755,1,0.9997899901143034
+0,medium,Incomplete Information,0,0.00014796905,0,0.00020658400657969187
+1,medium,Incomplete Information,1,0.99992657,1,0.9996855122313498
+0,easy,Misinterpretation of #Question#,0,0.00017265153,0,0.00027950533137174383
+1,easy,Misinterpretation of #Question#,1,0.99987113,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00018850982,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99994266,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00014257943,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99994266,1,0.9997777832536523
+0,hard,Incomplete Information,0,0.00017400544,0,0.0001591991159476348
+1,hard,Incomplete Information,1,0.99995255,1,0.9997993955457222
+0,easy,Incomplete Information,0,0.0006462033,0,0.0014427278740902765
+1,easy,Incomplete Information,1,0.9999424,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00014796905,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99992096,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0003618828,0,0.0002512364623001914
+1,hard,Misinterpretation of #Question#,1,0.9998741,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,1,0.998835,1,0.9698833340677377
+1,hard,Misinterpretation of #Question#,1,0.99991846,1,0.9997428618286696
+0,hard,Misinterpretation of #Question#,0,0.0004390453,0,0.0001978864501662333
+1,hard,Misinterpretation of #Question#,1,0.9996699,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00012830943,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999231,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00014313738,0,0.000282058825770139
+1,medium,Misinterpretation of #Question#,1,0.9999465,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00015781863,0,0.00024263530597815739
+1,medium,Misinterpretation of #Question#,1,0.9999517,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00041165142,0,0.0001856952348374686
+1,medium,Misinterpretation of #Question#,1,0.99994814,1,0.9998071262308801
+0,easy,Misinterpretation of #Question#,0,0.00019678478,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999484,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.00015537225,0,0.0001591991159476348
+1,hard,Misinterpretation of #Question#,1,0.9999528,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.0003314445,0,0.00019149175021325658
+1,easy,Incomplete Information,1,0.99983263,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.00018595057,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.99994755,1,0.9997814398760436
+0,medium,Incomplete Information,0,0.00015781863,0,0.00020658400657969187
+1,medium,Incomplete Information,1,0.999943,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00046190582,0,0.00019149175021325658
+1,medium,Misinterpretation of #Question#,1,0.99994266,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00039434477,0,0.0001856952348374686
+1,easy,Misinterpretation of #Question#,1,0.99993134,1,0.9998131569779988
+0,hard,Incomplete Information,0,0.00055062474,0,0.0011372928725459515
+1,hard,Incomplete Information,1,0.9999471,1,0.9998131569779988
+0,easy,Misinterpretation of #Question#,0,0.00013927702,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9997029,1,0.999914587321858
+0,medium,Misinterpretation of #Question#,0,0.00028910325,0,0.00017372671307506324
+1,medium,Misinterpretation of #Question#,1,0.99992573,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00012830943,0,0.00027950533137174383
+1,medium,Misinterpretation of #Question#,1,0.9999584,1,0.9998178777631966
+0,easy,Mechanism and Pathway Misattribution,0,0.00014739226,0,0.0001872672361119608
+1,easy,Mechanism and Pathway Misattribution,1,0.99994457,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00024298552,0,0.0001591991159476348
+1,hard,Misinterpretation of #Question#,1,0.9999497,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.00013289992,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.9999442,1,0.9998178777631966
+0,medium,Mechanism and Pathway Misattribution,0,0.00017366599,0,0.0001698940482156057
+1,medium,Mechanism and Pathway Misattribution,1,0.99993575,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00021824207,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,0,0.09704755,0,0.07917771950476514
+0,hard,Misinterpretation of #Question#,0,0.0013537587,0,0.0021338013585657403
+1,hard,Misinterpretation of #Question#,1,0.9999294,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00024923251,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999194,1,0.9997732887940337
+0,hard,Misinterpretation of #Question#,0,0.00020502215,0,0.0001608697576031442
+1,hard,Misinterpretation of #Question#,1,0.999928,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00048500832,0,0.0001920137739112038
+1,medium,Misinterpretation of #Question#,0,0.005685907,0,0.010670313762716594
+0,hard,Mechanism and Pathway Misattribution,0,0.0004044815,0,0.00019149175021325658
+1,hard,Mechanism and Pathway Misattribution,1,0.9999417,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,1,0.9998148,1,0.9998178777631966
+1,hard,Misinterpretation of #Question#,1,0.99995494,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00014739226,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999502,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.4492416,0,0.16160245467102835
+1,medium,Misinterpretation of #Question#,1,0.9999294,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00013446629,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99995303,1,0.9998131569779988
+0,easy,Misinterpretation of #Question#,0,0.00016571455,0,0.00033618083525215785
+1,easy,Misinterpretation of #Question#,1,0.9999485,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00025216964,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999478,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.0023688741,0,0.006667964919533004
+1,easy,Misinterpretation of #Question#,1,0.9999541,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.0002018442,0,0.00033618083525215785
+1,easy,Misinterpretation of #Question#,1,0.9999517,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.002969445,0,0.005802141485059884
+1,medium,Misinterpretation of #Question#,1,0.9974788,1,0.9493204144592602
+0,easy,Misinterpretation of #Question#,0,0.00014202362,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999461,1,0.9997899901143034
+0,easy,Incomplete Information,0,0.00015537225,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.99990535,1,0.9997814398760436
+0,medium,Misinterpretation of #Question#,0,0.00028351307,0,0.00042132428740446925
+1,medium,Misinterpretation of #Question#,1,0.99993217,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00020462219,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999448,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00039977106,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.999908,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00013982208,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.9999479,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.0001313518,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999362,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,1,0.99992454,1,0.9997276816509192
+1,easy,Misinterpretation of #Question#,1,0.9821854,0,0.31335911457497184
+0,hard,Incomplete Information,0,0.00038747612,0,0.00019149175021325658
+1,hard,Incomplete Information,1,0.99995124,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00034263037,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.99994636,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00012339458,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999511,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00018450376,0,0.00022272125615308786
+1,hard,Incomplete Information,1,0.99994814,1,0.9997993955457222
+0,easy,Incomplete Information,0,0.0003327413,0,0.00017372671307506324
+1,easy,Incomplete Information,1,0.9992237,1,0.9835675228003129
+0,easy,Misinterpretation of #Question#,0,0.0003360055,0,0.00017372671307506324
+1,easy,Misinterpretation of #Question#,1,0.99995637,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00030834458,0,0.0003186846776693593
+1,hard,Misinterpretation of #Question#,1,0.99993944,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00019373451,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99994993,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00015598026,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.99995315,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00031999827,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.99995446,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0001802305,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999502,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,1,0.98646784,1,0.6406463627249195
+1,hard,Misinterpretation of #Question#,1,0.9999535,1,0.9997899901143034
+0,medium,Incomplete Information,0,0.0003859661,0,0.00017372671307506324
+1,medium,Incomplete Information,1,0.99994993,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.00022298051,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999491,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00011774459,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99995303,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00016187639,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9998945,1,0.9997490294227993
+0,hard,Misinterpretation of #Question#,0,0.00018093578,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99994004,1,0.9998156297152369
+0,medium,Misinterpretation of #Question#,0,0.00017130819,0,0.00027950533137174383
+1,medium,Misinterpretation of #Question#,1,0.99993956,1,0.9997428618286696
+0,medium,Misinterpretation of #Question#,0,0.00014091855,0,0.00033618083525215785
+1,medium,Misinterpretation of #Question#,1,0.9999479,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00036757955,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.99995255,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00019563534,0,0.0001608697576031442
+1,easy,Misinterpretation of #Question#,1,0.9995703,1,0.9980942408426707
+0,easy,Misinterpretation of #Question#,0,0.00012931562,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99995387,1,0.9997814398760436
+0,easy,Mechanism and Pathway Misattribution,0,0.0001823546,0,0.0001698940482156057
+1,easy,Mechanism and Pathway Misattribution,1,0.9999509,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00012053649,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9775858,0,0.13386932098279877
+0,hard,Misinterpretation of #Question#,0,0.00019411318,0,0.00018159857487702437
+1,hard,Misinterpretation of #Question#,1,0.9999515,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00012339458,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99990463,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00019110434,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99988806,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0001603035,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99766773,1,0.9486094205785998
+0,hard,Misinterpretation of #Question#,0,0.0001210082,0,0.00048713058174385064
+1,hard,Misinterpretation of #Question#,1,0.99995565,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00014653131,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99930537,1,0.9985934022567787
+0,hard,Misinterpretation of #Question#,0,0.00019871556,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999505,1,0.9998071257227927
+0,hard,Mechanism and Pathway Misattribution,0,0.00015236756,0,0.0001698940482156057
+1,hard,Mechanism and Pathway Misattribution,1,0.9999503,1,0.9995146221756516
+0,easy,Misinterpretation of #Question#,0,0.0003089472,0,0.00017583177755207185
+1,easy,Misinterpretation of #Question#,1,0.99994755,1,0.9998071257227927
+0,medium,Misinterpretation of #Question#,0,0.00035419365,0,0.00017372671307506324
+1,medium,Misinterpretation of #Question#,1,0.9999435,1,0.9996855122313498
+0,medium,Misinterpretation of #Question#,0,0.00042887926,0,0.0002112441907390991
+1,medium,Misinterpretation of #Question#,1,0.99993217,1,0.9997993955457222
+0,easy,Mechanism and Pathway Misattribution,0,0.00013605112,0,0.00018159857487702437
+1,easy,Mechanism and Pathway Misattribution,1,0.9999541,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.00016898241,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999448,1,0.9996855122313498
+0,medium,Incomplete Information,0,0.00015689676,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.99995315,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00026221233,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99984646,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00047563188,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.9999503,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.0003521251,0,0.00022774538631930005
+1,hard,Misinterpretation of #Question#,1,0.9999534,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.000111044465,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9998629,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.0001603035,0,0.0001872672361119608
+1,easy,Incomplete Information,1,0.99994075,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0001777836,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999473,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00012006662,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999484,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00026068083,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9999497,1,0.9997993955457222
+0,hard,Incomplete Information,0,0.00018486439,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.9995461,1,0.9992241319632323
+0,easy,Misinterpretation of #Question#,0,0.00027532977,0,0.00018159857487702437
+1,easy,Misinterpretation of #Question#,1,0.9999342,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00016093082,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999485,1,0.9998156297152369
+0,hard,Misinterpretation of #Question#,0,0.00013342002,0,0.0001559358858279805
+1,hard,Misinterpretation of #Question#,1,0.9999497,1,0.9998071257227927
+0,medium,Misinterpretation of #Question#,0,0.0014866153,0,0.0020383989231367366
+1,medium,Misinterpretation of #Question#,1,0.9999503,1,0.9997993955457222
+0,hard,Incomplete Information,0,0.00017030752,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.99994874,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.00019716944,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999453,1,0.9997713627928999
+0,hard,Misinterpretation of #Question#,0,0.00015059269,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.999941,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00034062934,0,0.0003215959901386685
+1,hard,Misinterpretation of #Question#,1,0.9999231,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00021485925,0,0.00027950533137174383
+1,easy,Misinterpretation of #Question#,1,0.9999491,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00015118199,0,0.00033618083525215785
+1,hard,Misinterpretation of #Question#,1,0.99991775,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0002203833,0,0.0001591991159476348
+1,medium,Misinterpretation of #Question#,1,0.9999405,1,0.9998071257227927
+0,easy,Misinterpretation of #Question#,0,0.00016539123,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999299,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00012291357,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999521,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00017400544,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999292,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00015537225,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999502,1,0.9997899901143034
+0,easy,Incomplete Information,0,0.0009528706,0,0.001455913969430214
+1,easy,Incomplete Information,0,0.11008788,0,0.12313994117613081
+0,medium,Incomplete Information,0,0.0010005045,0,0.0009328697050809108
+1,medium,Incomplete Information,0,0.010368156,1,0.8093884612015324
+0,easy,Misinterpretation of #Question#,0,0.00021995336,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999485,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00016636301,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99994504,1,0.9997276816509192
+0,easy,Misinterpretation of #Question#,0,0.00015059269,0,0.00033618083525215785
+1,easy,Misinterpretation of #Question#,1,0.99994874,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.0009888597,0,0.001455913969430214
+1,medium,Incomplete Information,1,0.9999292,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00011501735,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.999944,1,0.9996855122313498
+0,easy,Misinterpretation of #Question#,0,0.0002673826,0,0.0001591991159476348
+1,easy,Misinterpretation of #Question#,1,0.9999491,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00019411318,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999001,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00020462219,0,0.000282058825770139
+1,medium,Misinterpretation of #Question#,1,0.9997247,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.0001673405,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99994993,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.00014313738,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.998103,1,0.9552847095547601
+0,hard,Incomplete Information,0,0.00015598026,0,0.00027950533137174383
+1,hard,Incomplete Information,1,0.99995637,1,0.9998071257227927
+0,medium,Misinterpretation of #Question#,0,0.00015446468,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999324,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00012484893,0,0.000282058825770139
+1,hard,Misinterpretation of #Question#,1,0.99995255,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00029308183,0,0.00017372671307506324
+1,medium,Misinterpretation of #Question#,1,0.9999461,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,1,0.9865458,1,0.6406463627249195
+1,hard,Misinterpretation of #Question#,1,0.9999311,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.0002341358,0,0.0001608697576031442
+1,medium,Incomplete Information,1,0.99994266,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0001482583,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99994123,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00016282752,0,0.00020658400657969187
+1,easy,Misinterpretation of #Question#,1,0.9999318,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0002959571,0,0.0001856952348374686
+1,easy,Misinterpretation of #Question#,1,0.99995303,1,0.9997814398760436
+0,medium,Misinterpretation of #Question#,0,0.00028685408,0,0.00017372671307506324
+1,medium,Misinterpretation of #Question#,1,0.9999511,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00024062475,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99994755,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00014369751,0,0.0001559358858279805
+1,easy,Misinterpretation of #Question#,1,0.99994814,1,0.9997814398760436
+0,hard,Incomplete Information,0,0.00013446629,0,0.0001872672361119608
+1,hard,Incomplete Information,0,0.00033079798,0,0.00015945371666406234
+0,medium,Misinterpretation of #Question#,0,0.0001888783,0,0.00022272125615308786
+1,medium,Misinterpretation of #Question#,1,0.9999443,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.00015506914,0,0.00022272125615308786
+1,hard,Incomplete Information,1,0.99987805,1,0.9998131569779988
+0,hard,Misinterpretation of #Question#,0,0.000782414,0,0.0010469498594979953
+1,hard,Misinterpretation of #Question#,0,0.0027846089,0,0.005495592554539129
+0,medium,Misinterpretation of #Question#,1,0.9900058,1,0.9198719707524611
+1,medium,Misinterpretation of #Question#,0,0.007039046,0,0.0616405714070497
+0,medium,Misinterpretation of #Question#,0,0.00014624542,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999471,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00019832788,0,0.00018159857487702437
+1,medium,Misinterpretation of #Question#,1,0.9997098,1,0.9998215250513424
+0,easy,Misinterpretation of #Question#,0,0.000453861,0,0.0002512364623001914
+1,easy,Misinterpretation of #Question#,1,0.9999372,1,0.9997993955457222
+0,easy,Incomplete Information,0,0.00043308618,0,0.0002115190520308315
+1,easy,Incomplete Information,1,0.99666256,1,0.9666550746947152
+0,hard,Incomplete Information,0,0.0025809042,0,0.004593510548582477
+1,hard,Incomplete Information,1,0.9999491,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00014369751,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99995184,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0017477858,0,0.0027732194882984108
+1,medium,Misinterpretation of #Question#,1,0.99995077,1,0.9997814398760436
+0,hard,Incomplete Information,0,0.00012387747,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.99995375,1,0.9997899901143034
+0,medium,Incomplete Information,0,0.00023005706,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.99994147,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.0002195243,0,0.00020658400657969187
+1,easy,Misinterpretation of #Question#,1,0.99968123,1,0.9998131569779988
+0,easy,Misinterpretation of #Question#,0,0.00015628517,0,0.00018777774556824546
+1,easy,Misinterpretation of #Question#,1,0.99995124,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00025464367,0,0.00016673699739285725
+1,easy,Misinterpretation of #Question#,1,0.99976677,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00021111623,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.99995077,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.0004181313,0,0.00017372671307506324
+1,easy,Misinterpretation of #Question#,1,0.9999132,1,0.9997309190639649
+0,hard,Misinterpretation of #Question#,0,0.00015506914,0,0.00022272125615308786
+1,hard,Misinterpretation of #Question#,1,0.9999502,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.0001777836,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999473,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0003187511,0,0.00019149175021325658
+1,medium,Misinterpretation of #Question#,1,0.9999299,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.00013982208,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.99994934,1,0.9998238870624663
+0,hard,Misinterpretation of #Question#,0,0.00017502782,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99995124,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0003487043,0,0.00015945371666406234
+1,easy,Misinterpretation of #Question#,1,0.9999534,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.46089542,0,0.11474544306819175
+1,hard,Incomplete Information,1,0.99994504,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00016474657,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999535,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00016799536,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99994993,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00017743677,0,0.0001872672361119608
+1,medium,Incomplete Information,0,0.36079866,1,0.7866486565609578
+0,medium,Misinterpretation of #Question#,0,0.00018342603,0,0.00020658400657969187
+1,medium,Misinterpretation of #Question#,1,0.9991704,1,0.984200239842806
+0,hard,Misinterpretation of #Question#,0,0.002923543,0,0.005802141485059884
+1,hard,Misinterpretation of #Question#,1,0.99991715,1,0.9997814398760436
+0,medium,Misinterpretation of #Question#,0,0.00015386257,0,0.0001935208894077136
+1,medium,Misinterpretation of #Question#,1,0.99929166,1,0.997530058368181
+0,medium,Mechanism and Pathway Misattribution,0,0.00022385306,0,0.0001698940482156057
+1,medium,Mechanism and Pathway Misattribution,1,0.9999484,1,0.9997814398760436
+0,hard,Mechanism and Pathway Misattribution,0,0.0005714301,0,0.000970814658458022
+1,hard,Mechanism and Pathway Misattribution,1,0.9999534,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00021402177,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999001,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.0013564017,0,0.00401863786308135
+1,medium,Misinterpretation of #Question#,1,0.9999385,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00020542288,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.9999453,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00026426834,0,0.00020658400657969187
+1,easy,Misinterpretation of #Question#,1,0.99993646,1,0.9998178777631966
+0,easy,Mechanism and Pathway Misattribution,0,0.0003859661,0,0.00022774538631930005
+1,easy,Mechanism and Pathway Misattribution,1,0.99993944,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0002813074,0,0.0001644988756557988
+1,hard,Misinterpretation of #Question#,1,0.9999465,1,0.9996855122313498
+0,medium,Misinterpretation of #Question#,0,0.00041165142,0,0.0002112441907390991
+1,medium,Misinterpretation of #Question#,1,0.9998671,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00017743677,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999001,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.0003748267,0,0.00015945371666406234
+1,hard,Misinterpretation of #Question#,1,0.999824,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00012681478,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999337,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0001666882,0,0.00018159857487702437
+1,easy,Misinterpretation of #Question#,1,0.9999435,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00017813111,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999448,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.00020865715,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9756467,1,0.9100505860508833
+0,hard,Misinterpretation of #Question#,0,0.00013658355,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99994123,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00025167773,0,0.0002041264707589142
+1,medium,Misinterpretation of #Question#,1,0.99994874,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.00016410438,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99987566,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00028462242,0,0.0002112441907390991
+1,hard,Misinterpretation of #Question#,1,0.999892,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00021277169,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999187,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00015781863,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999485,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.0001355208,0,0.00020658400657969187
+1,medium,Misinterpretation of #Question#,1,0.99995446,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.0005102608,0,0.000970814658458022
+1,medium,Misinterpretation of #Question#,1,0.9999471,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00015177361,0,0.00018159857487702437
+1,hard,Incomplete Information,1,0.9999509,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0001603035,0,0.0001559358858279805
+1,hard,Misinterpretation of #Question#,1,0.99174845,1,0.944236154185366
+0,medium,Misinterpretation of #Question#,0,0.33044422,0,0.16160245467102835
+1,medium,Misinterpretation of #Question#,1,0.99993396,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.007218753,0,0.04563662890545201
+1,hard,Misinterpretation of #Question#,1,0.9999428,1,0.9998238870624663
+0,hard,Incomplete Information,0,0.00014796905,0,0.0001935208894077136
+1,hard,Incomplete Information,1,0.99994814,1,0.9998215250513424
+0,medium,Misinterpretation of #Question#,0,0.0004140695,0,0.00017372671307506324
+1,medium,Misinterpretation of #Question#,1,0.9999473,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0002070337,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999442,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00019871556,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999305,1,0.9998131569779988
+0,medium,Misinterpretation of #Question#,0,0.0001313518,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.999949,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00023551143,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999505,1,0.9997814398760436
+0,medium,Misinterpretation of #Question#,0,0.0001723147,0,0.0001591991159476348
+1,medium,Misinterpretation of #Question#,1,0.99993575,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.000532652,0,0.0011057008244139748
+1,easy,Incomplete Information,1,0.9999465,1,0.9997398768819856
+0,hard,Misinterpretation of #Question#,0,0.00020462219,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999465,1,0.9997563409999797
+0,hard,Misinterpretation of #Question#,0,0.00018667821,0,0.0001591991159476348
+1,hard,Misinterpretation of #Question#,1,0.99995387,1,0.9997899901143034
+0,easy,Incomplete Information,0,0.000118205375,0,0.0001872672361119608
+1,easy,Incomplete Information,1,0.99993396,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.033812113,0,0.07948417023800675
+1,hard,Incomplete Information,1,0.9995216,1,0.9979836670476083
+0,medium,Misinterpretation of #Question#,0,0.00017400544,0,0.0001559358858279805
+1,medium,Misinterpretation of #Question#,1,0.99984336,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0002908017,0,0.0001856952348374686
+1,easy,Misinterpretation of #Question#,0,0.0028449094,0,0.011277172317787404
+0,hard,Misinterpretation of #Question#,0,0.001622967,0,0.0020383989231367366
+1,hard,Misinterpretation of #Question#,1,0.9999535,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00041568946,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.9999443,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.0008899655,0,0.0011057008244139748
+1,hard,Misinterpretation of #Question#,0,0.00063495064,0,0.0014427278740902765
+0,hard,Misinterpretation of #Question#,0,0.00014710471,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999329,1,0.9996855122313498
+0,easy,Mechanism and Pathway Misattribution,0,0.0001666882,0,0.0001872672361119608
+1,easy,Mechanism and Pathway Misattribution,1,0.9999535,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.00016506859,0,0.0001559358858279805
+1,hard,Misinterpretation of #Question#,1,0.99994373,1,0.9997899901143034
+0,easy,Incomplete Information,0,0.00034802416,0,0.00017372671307506324
+1,easy,Incomplete Information,1,0.9999149,1,0.9997917871733228
+0,easy,Misinterpretation of #Question#,0,0.000390514,0,0.00017372671307506324
+1,easy,Misinterpretation of #Question#,1,0.99993956,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00017813111,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9998752,1,0.9997993955457222
+0,medium,Incomplete Information,0,0.0002959571,0,0.00017372671307506324
+1,medium,Incomplete Information,1,0.99983776,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00014539114,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999367,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.0001855878,0,0.0003695310107642616
+1,hard,Incomplete Information,1,0.9998907,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,1,0.9475269,1,0.5449696021990654
+1,medium,Misinterpretation of #Question#,1,0.9999405,1,0.9997428618286696
+0,easy,Misinterpretation of #Question#,0,0.00018740873,0,9.024216245725633e-05
+1,easy,Misinterpretation of #Question#,1,0.9999231,1,0.9998071262308801
+0,hard,Misinterpretation of #Question#,0,0.00019222713,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999511,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00014596009,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999286,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00031015597,0,0.0003215959901386685
+1,hard,Misinterpretation of #Question#,1,0.9984812,1,0.9839488618229218
+0,hard,Misinterpretation of #Question#,0,0.00020784386,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999521,1,0.9997732887940337
+0,easy,Misinterpretation of #Question#,0,0.00021995336,0,0.00020658400657969187
+1,easy,Misinterpretation of #Question#,1,0.9999461,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00022254554,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999546,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0006190416,0,0.000970814658458022
+1,medium,Misinterpretation of #Question#,1,0.9999465,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.00055711175,0,0.0008037926128671148
+1,hard,Misinterpretation of #Question#,1,0.99984336,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00015905623,0,0.00022272125615308786
+1,medium,Misinterpretation of #Question#,1,0.99994147,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.00026170083,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999522,1,0.9998071257227927
+0,hard,Mechanism and Pathway Misattribution,0,0.00013982208,0,0.0001872672361119608
+1,hard,Mechanism and Pathway Misattribution,1,0.9999517,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00025365117,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999553,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00014653131,0,0.00022272125615308786
+1,medium,Incomplete Information,1,0.9999443,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00016799536,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.99994195,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00018199887,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999517,1,0.9996855122313498
+0,hard,Misinterpretation of #Question#,0,0.00014009539,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999473,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00022782185,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999509,1,0.9997814398760436
+0,hard,Incomplete Information,0,0.00017400544,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.999949,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.0015337331,0,0.0028383409171060586
+1,medium,Misinterpretation of #Question#,1,0.9999548,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00016766759,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99995077,1,0.9997777832536523
+0,hard,Incomplete Information,0,0.0002195243,0,0.00018159857487702437
+1,hard,Incomplete Information,1,0.99994636,1,0.9996855122313498
+0,medium,Misinterpretation of #Question#,0,0.00020582441,0,0.00018159857487702437
+1,medium,Misinterpretation of #Question#,1,0.9999448,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00020263405,0,0.00022272125615308786
+1,easy,Misinterpretation of #Question#,1,0.9998872,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.00055062474,0,0.0011372928725459515
+1,hard,Incomplete Information,1,0.9999175,1,0.9998238870624663
+0,medium,Misinterpretation of #Question#,0,0.00023276827,0,0.0001591991159476348
+1,medium,Misinterpretation of #Question#,1,0.999944,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.0001349925,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9955403,1,0.8764141613080364
+0,medium,Misinterpretation of #Question#,0,0.0012994274,0,0.0020383989231367366
+1,medium,Misinterpretation of #Question#,1,0.9998568,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0018172832,0,0.0020383989231367366
+1,easy,Misinterpretation of #Question#,1,0.99995446,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.0002216781,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99993074,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00012436225,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999548,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.00014091855,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999509,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00022649117,0,0.0003695310107642616
+1,medium,Misinterpretation of #Question#,1,0.9999548,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0001777836,0,0.00020658400657969187
+1,hard,Misinterpretation of #Question#,1,0.999949,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00022081405,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99991775,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.0023734944,0,0.004793892168004486
+1,hard,Incomplete Information,1,0.9999043,1,0.9997899901143034
+0,hard,Incomplete Information,1,0.95806944,0,0.3996296494242194
+1,hard,Incomplete Information,1,0.99993646,1,0.9998071262308801
+0,easy,Misinterpretation of #Question#,0,0.39373463,0,0.09884485437681759
+1,easy,Misinterpretation of #Question#,1,0.9999461,1,0.9997814398760436
+0,medium,Misinterpretation of #Question#,0,0.00016766759,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999299,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00030002996,0,0.00017372671307506324
+1,medium,Misinterpretation of #Question#,1,0.99993956,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00020027377,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999385,1,0.9997777832536523
+0,medium,Incomplete Information,0,0.00015567597,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9999461,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.26322046,0,0.11474544306819175
+1,easy,Incomplete Information,1,0.9999379,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.00013289992,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.9999485,1,0.9996855122313498
+0,easy,Misinterpretation of #Question#,0,0.00024251152,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.99992883,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00017366599,0,0.000282058825770139
+1,easy,Misinterpretation of #Question#,1,0.9999331,1,0.9997917871733228
+0,medium,Misinterpretation of #Question#,0,0.00019110434,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99982184,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00037702857,0,0.0001856952348374686
+1,hard,Incomplete Information,1,0.99994755,1,0.9997814398760436
+0,medium,Incomplete Information,0,0.0012279605,0,0.0026819901239299214
+1,medium,Incomplete Information,1,0.9999503,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.013996083,0,0.062096328496319346
+1,hard,Incomplete Information,1,0.9992161,1,0.9848974009144484
+0,medium,Misinterpretation of #Question#,0,0.00014230126,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99993443,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.0002203833,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9999454,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00016282752,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99993646,1,0.9997814398760436
+0,medium,Incomplete Information,0,0.00018740873,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9999484,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00016898241,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999478,1,0.9997243535973631
+0,medium,Misinterpretation of #Question#,0,0.00034802416,0,0.00019149175021325658
+1,medium,Misinterpretation of #Question#,1,0.9999509,1,0.9997993955457222
+0,medium,Incomplete Information,0,0.00014912941,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.99965537,1,0.9985934022567787
+0,hard,Incomplete Information,0,0.00014796905,0,0.00022272125615308786
+1,hard,Incomplete Information,1,0.9999181,1,0.9997814398760436
+0,hard,Incomplete Information,0,0.00016799536,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.99992096,1,0.9997276816509192
+0,easy,Misinterpretation of #Question#,0,0.00018595057,0,0.0001559358858279805
+1,easy,Misinterpretation of #Question#,1,0.99987805,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00022737742,0,0.00020658400657969187
+1,medium,Misinterpretation of #Question#,1,0.999941,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0014269596,0,0.0027732194882984108
+1,medium,Misinterpretation of #Question#,1,0.9999335,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00029537978,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.9999521,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00016571455,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999362,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00015476662,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999497,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.0004036926,0,0.00019149175021325658
+1,hard,Misinterpretation of #Question#,1,0.9999521,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.00021824207,0,0.0001935208894077136
+1,hard,Misinterpretation of #Question#,1,0.99992514,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.00014257943,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.99994504,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0002216781,0,0.0001935208894077136
+1,hard,Misinterpretation of #Question#,1,0.9999521,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0003077431,0,0.0002112441907390991
+1,hard,Misinterpretation of #Question#,1,0.9998965,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00036472004,0,0.00016279055153758712
+1,easy,Misinterpretation of #Question#,1,0.99993813,1,0.9997899901143034
+0,easy,Incomplete Information,0,0.00036829791,0,0.00017372671307506324
+1,easy,Incomplete Information,1,0.99994695,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00013394213,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.999943,1,0.9998178777631966
+0,medium,Methodological and Evidence Fabrication,0,0.00015506914,0,0.0001559358858279805
+1,medium,Methodological and Evidence Fabrication,1,0.99994874,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00022604932,0,0.00018159857487702437
+1,hard,Misinterpretation of #Question#,1,0.9999546,1,0.9997993955457222
+0,hard,Incomplete Information,0,0.00015088705,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.999902,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.0001451075,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.99994326,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00014653131,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99995685,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.004166256,0,0.005327914728392004
+1,hard,Misinterpretation of #Question#,1,0.9984053,1,0.9589671489335883
+0,hard,Misinterpretation of #Question#,0,0.00581996,0,0.010257149650831009
+1,hard,Misinterpretation of #Question#,1,0.9999461,1,0.9996665512259648
+0,hard,Misinterpretation of #Question#,0,0.00016410438,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99992156,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.00015689676,0,0.0001698940482156057
+1,easy,Incomplete Information,0,0.009764973,0,0.01650636324753461
+0,medium,Misinterpretation of #Question#,0,0.00028629453,0,0.00022774538631930005
+1,medium,Misinterpretation of #Question#,1,0.8025555,1,0.9095476529121806
+0,medium,Misinterpretation of #Question#,0,0.00070277863,0,0.000970814658458022
+1,medium,Misinterpretation of #Question#,1,0.9999225,1,0.9998071262308801
+0,medium,Incomplete Information,0,0.00021444011,0,0.00027950533137174383
+1,medium,Incomplete Information,1,0.9999263,1,0.9998131569779988
+0,hard,Misinterpretation of #Question#,0,0.00020066522,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999367,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00015659066,0,0.0002456942394455016
+1,medium,Misinterpretation of #Question#,1,0.9999521,1,0.9998071262308801
+0,hard,Misinterpretation of #Question#,0,0.00022604932,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999479,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.00012881155,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99994993,1,0.9996855122313498
+0,medium,Misinterpretation of #Question#,0,0.00024584908,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999521,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00015177361,0,0.0001559358858279805
+1,hard,Misinterpretation of #Question#,1,0.99995685,1,0.9997713627928999
+0,hard,Misinterpretation of #Question#,0,0.00012291357,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999405,1,0.9997777832536523
+0,medium,Incomplete Information,0,0.00014596009,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9999461,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00014036923,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99994755,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00029711513,0,0.00016279055153758712
+1,easy,Misinterpretation of #Question#,1,0.99992454,1,0.9997993955457222
+0,hard,Incomplete Information,0,0.0004424873,0,0.0002512364623001914
+1,hard,Incomplete Information,1,0.9999269,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,1,0.99903023,1,0.9950897850339009
+1,medium,Misinterpretation of #Question#,1,0.99919754,1,0.9907207699392484
+0,hard,Misinterpretation of #Question#,0,0.0007657964,0,0.0014427278740902765
+1,hard,Misinterpretation of #Question#,1,0.9999484,1,0.9997814398760436
+0,hard,Incomplete Information,0,0.00018164382,0,0.00033618083525215785
+1,hard,Incomplete Information,1,0.99984944,1,0.9997917871733228
+0,hard,Incomplete Information,1,0.6035011,1,0.9324939399834551
+1,hard,Incomplete Information,1,0.9999448,1,0.9997814398760436
+0,medium,Mechanism and Pathway Misattribution,0,0.0002758679,0,0.000282058825770139
+1,medium,Mechanism and Pathway Misattribution,1,0.99994457,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0003089472,0,0.00016279055153758712
+1,hard,Misinterpretation of #Question#,1,0.9999553,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.001690803,0,0.003368169438538743
+1,hard,Misinterpretation of #Question#,1,0.9999422,1,0.9996855122313498
+0,medium,Incomplete Information,0,0.00012291357,0,0.0001872672361119608
+1,medium,Incomplete Information,1,0.99988544,1,0.9996855122313498
+0,hard,Incomplete Information,0,0.000114569,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.9988883,1,0.9048186803134338
+0,easy,Misinterpretation of #Question#,0,0.00040055232,0,0.00017372671307506324
+1,easy,Misinterpretation of #Question#,1,0.9999541,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.00022871332,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.999902,1,0.9997993955457222
+0,medium,Incomplete Information,1,0.79061115,1,0.7446597402231274
+1,medium,Incomplete Information,1,0.99994564,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00016898241,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999255,1,0.9996855122313498
+0,medium,Misinterpretation of #Question#,0,0.00020906501,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999542,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00028296004,0,0.00017372671307506324
+1,medium,Misinterpretation of #Question#,1,0.99991775,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00017332718,0,0.00022272125615308786
+1,hard,Misinterpretation of #Question#,1,0.9999372,1,0.9998131569779988
+0,easy,Misinterpretation of #Question#,0,0.00015416334,0,0.00027950533137174383
+1,easy,Misinterpretation of #Question#,1,0.9999473,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0003433,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.9999478,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00022429059,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99931884,1,0.9985934022567787
+0,easy,Misinterpretation of #Question#,0,0.00018378458,0,0.00020658400657969187
+1,easy,Misinterpretation of #Question#,1,0.9998965,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00019640088,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.99994004,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0005368274,0,0.000970814658458022
+1,medium,Misinterpretation of #Question#,1,0.9999467,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.0022430879,0,0.004926008972612323
+1,hard,Misinterpretation of #Question#,1,0.9999528,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.0002018442,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,0,0.00932197,0,0.012868186833623464
+0,medium,Misinterpretation of #Question#,0,0.00034734528,0,0.00017372671307506324
+1,medium,Misinterpretation of #Question#,1,0.9999497,1,0.9997814398760436
+0,medium,Misinterpretation of #Question#,0,0.00015720345,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.95691687,1,0.5449696021990654
+0,medium,Misinterpretation of #Question#,0,0.0002382869,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99990654,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00020542288,0,0.00048713058174385064
+1,hard,Misinterpretation of #Question#,1,0.9999515,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00063124346,0,0.000970814658458022
+1,medium,Incomplete Information,1,0.9999453,1,0.9998362359372104
+0,easy,Misinterpretation of #Question#,0,0.00077784655,0,0.0010469498594979953
+1,easy,Misinterpretation of #Question#,1,0.9998859,1,0.9997814398760436
+0,medium,Misinterpretation of #Question#,0,0.00020582441,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99995494,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0007069056,0,0.0016445352544316044
+1,medium,Misinterpretation of #Question#,1,0.99991906,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00021570001,0,0.0001608697576031442
+1,medium,Misinterpretation of #Question#,1,0.99995244,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00014539114,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.9999424,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.0024154834,0,0.004793892168004486
+1,hard,Misinterpretation of #Question#,0,0.036665846,0,0.07948417023800675
+0,hard,Mechanism and Pathway Misattribution,0,0.00030297344,0,0.00022774538631930005
+1,hard,Mechanism and Pathway Misattribution,1,0.9999541,1,0.9996855122313498
+0,medium,Incomplete Information,0,0.00035906766,0,0.0001856952348374686
+1,medium,Incomplete Information,0,0.11051915,0,0.1368929462251032
+0,easy,Misinterpretation of #Question#,0,0.00016506859,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99994695,1,0.9997276816509192
+0,medium,Incomplete Information,0,0.0001532628,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9999347,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,1,0.90966654,1,0.9095476529121806
+1,hard,Misinterpretation of #Question#,1,0.9999443,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.012845959,0,0.29991564046735275
+1,hard,Misinterpretation of #Question#,1,0.99995637,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0004485757,0,0.0002390544476936587
+1,hard,Misinterpretation of #Question#,1,0.99986064,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00024923251,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9988463,1,0.9698833340677377
+0,medium,Misinterpretation of #Question#,0,0.0030693877,0,0.0055436384251352985
+1,medium,Misinterpretation of #Question#,1,0.99994147,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00012339458,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99994993,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00013873412,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.999943,1,0.9998131569779988
+0,hard,Misinterpretation of #Question#,0,0.007504158,0,0.01695576926405008
+1,hard,Misinterpretation of #Question#,1,0.9999162,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00021070437,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9925249,1,0.9587813257498444
+0,easy,Misinterpretation of #Question#,0,0.00032187812,0,0.0001856952348374686
+1,easy,Misinterpretation of #Question#,1,0.999956,1,0.9998222463806401
+0,easy,Incomplete Information,0,0.00018450376,0,0.0001935208894077136
+1,easy,Incomplete Information,1,0.9999459,1,0.9996855122313498
+0,hard,Misinterpretation of #Question#,0,0.00021194234,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99994993,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0005582003,0,0.000970814658458022
+1,hard,Misinterpretation of #Question#,1,0.99994147,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00017813111,0,0.00022272125615308786
+1,medium,Misinterpretation of #Question#,1,0.99956864,1,0.997530058368181
+0,hard,Misinterpretation of #Question#,0,0.00027857436,0,0.00017372671307506324
+1,hard,Misinterpretation of #Question#,1,0.99995255,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0001451075,0,9.064733973793681e-05
+1,easy,Misinterpretation of #Question#,1,0.9999435,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.000118205375,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999459,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.00024109505,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99984217,1,0.999747657197074
+0,hard,Misinterpretation of #Question#,0,0.005797401,0,0.010670313762716594
+1,hard,Misinterpretation of #Question#,1,0.9999496,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00014768039,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999311,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00017709062,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999534,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00020622674,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9998845,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00012931562,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.99995697,1,0.9997732887940337
+0,hard,Misinterpretation of #Question#,0,0.00021824207,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999491,1,0.9997917871733228
+0,easy,Misinterpretation of #Question#,0,0.00021527923,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9986853,1,0.9780817388923303
+0,medium,Incomplete Information,0,0.00023875263,0,0.0002456942394455016
+1,medium,Incomplete Information,1,0.99994004,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.0004916815,0,0.0009328697050809108
+1,easy,Misinterpretation of #Question#,1,0.9998832,1,0.9998215250513424
+0,easy,Misinterpretation of #Question#,0,0.0001349925,0,0.0003695310107642616
+1,easy,Misinterpretation of #Question#,1,0.9999459,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00017332718,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9998535,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00033732018,0,0.0001856952348374686
+1,hard,Incomplete Information,1,0.99994373,1,0.9997732887940337
+0,medium,Misinterpretation of #Question#,0,0.00019335657,0,0.0001608697576031442
+1,medium,Misinterpretation of #Question#,1,0.99991417,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00015537225,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999479,1,0.9998178777631966
+0,easy,Mechanism and Pathway Misattribution,0,0.0001349925,0,0.0001872672361119608
+1,easy,Mechanism and Pathway Misattribution,1,0.99995685,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.053849377,0,0.06549763776405892
+1,hard,Misinterpretation of #Question#,1,0.999826,1,0.9997777832536523
+0,hard,Misinterpretation of #Question#,0,0.00022560837,0,0.000282058825770139
+1,hard,Misinterpretation of #Question#,1,0.9999517,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00046461902,0,0.0002112441907390991
+1,hard,Misinterpretation of #Question#,1,0.9999535,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0005517006,0,0.0012777651257107794
+1,hard,Misinterpretation of #Question#,1,0.9999168,1,0.9997309190639649
+0,medium,Misinterpretation of #Question#,0,0.00018164382,0,0.00033618083525215785
+1,medium,Misinterpretation of #Question#,1,0.9999057,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.000113234375,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999324,1,0.9996855122313498
+0,easy,Incomplete Information,0,0.00044770085,0,0.00019149175021325658
+1,easy,Incomplete Information,1,0.97821885,0,0.13386932098279877
+0,hard,Misinterpretation of #Question#,0,0.00024729344,0,0.00020658400657969187
+1,hard,Misinterpretation of #Question#,1,0.99995244,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.010828904,1,0.8536552766968318
+1,hard,Misinterpretation of #Question#,1,0.99992573,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.0001788282,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999573,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00016997529,0,0.00033618083525215785
+1,hard,Misinterpretation of #Question#,1,0.99994934,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00019871556,0,0.00020658400657969187
+1,medium,Misinterpretation of #Question#,1,0.99980444,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00015628517,0,0.0001559358858279805
+1,medium,Incomplete Information,1,0.9999318,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00013032975,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99983263,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.00083446025,0,0.0011359354098892677
+1,hard,Misinterpretation of #Question#,1,0.9998247,1,0.9997309190639649
+0,hard,Misinterpretation of #Question#,0,0.00026895344,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999509,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00015598026,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.99988806,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.00015506914,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99994123,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.08502305,1,0.5576750183568775
+1,easy,Misinterpretation of #Question#,1,0.9999316,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.0010103129,0,0.000970814658458022
+1,hard,Misinterpretation of #Question#,1,0.99993646,1,0.9997993955457222
+0,medium,Incomplete Information,0,0.012858348,0,0.024712509480714937
+1,medium,Incomplete Information,1,0.99995553,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0001532628,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999473,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.00040844924,0,0.00019149175021325658
+1,easy,Incomplete Information,1,0.9999324,1,0.9997877352613186
+0,easy,Misinterpretation of #Question#,0,0.0016356753,0,0.004032524593159352
+1,easy,Misinterpretation of #Question#,1,0.9982522,1,0.9785656620933927
+0,medium,Misinterpretation of #Question#,1,0.9601001,0,0.26247349983362406
+1,medium,Misinterpretation of #Question#,1,0.999926,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00017164306,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9951703,1,0.5203106493750225
+0,hard,Misinterpretation of #Question#,0,0.00015476662,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999522,1,0.9998131569779988
+0,easy,Misinterpretation of #Question#,0,0.0046909326,0,0.010670313762716594
+1,easy,Misinterpretation of #Question#,1,0.99995255,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00023968687,0,0.0001559358858279805
+1,hard,Misinterpretation of #Question#,1,0.9996338,1,0.9982495058892459
+0,easy,Misinterpretation of #Question#,0,0.00071802974,0,0.0018368252955616158
+1,easy,Misinterpretation of #Question#,1,0.99994504,1,0.9997814398760436
+0,medium,Misinterpretation of #Question#,0,0.00014313738,0,0.0001935208894077136
+1,medium,Misinterpretation of #Question#,1,0.99993026,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00029537978,0,0.00015945371666406234
+1,hard,Misinterpretation of #Question#,1,0.99991906,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00027159214,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99992967,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00016378422,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999461,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0014214043,0,0.0020383989231367366
+1,easy,Misinterpretation of #Question#,1,0.99995184,1,0.9997815278376753
+0,hard,Incomplete Information,0,0.00016865275,0,0.00022272125615308786
+1,hard,Incomplete Information,1,0.9999422,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0004897656,0,0.0009623624026219422
+1,hard,Misinterpretation of #Question#,1,0.9994286,1,0.9985934022567787
+0,hard,Incomplete Information,0,0.00012780925,0,0.0001698940482156057
+1,hard,Incomplete Information,1,0.9999496,1,0.9998131569779988
+0,hard,Misinterpretation of #Question#,0,0.00019373451,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99995494,1,0.9997814398760436
+0,easy,Incomplete Information,0,0.00015446468,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.9999331,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00015720345,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999367,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,1,0.99582565,1,0.9600915979581568
+1,hard,Misinterpretation of #Question#,1,0.99994147,1,0.9997398768819856
+0,hard,Misinterpretation of #Question#,0,0.0037434977,0,0.004593510548582477
+1,hard,Misinterpretation of #Question#,1,0.9998722,1,0.9998178777631966
+0,easy,Methodological and Evidence Fabrication,0,0.00012982171,0,0.0001698940482156057
+1,easy,Methodological and Evidence Fabrication,1,0.99995387,1,0.9997899901143034
+0,medium,Mechanism and Pathway Misattribution,0,0.00012387747,0,0.000282058825770139
+1,medium,Mechanism and Pathway Misattribution,1,0.9999453,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.0022430879,0,0.005612280252384644
+1,easy,Misinterpretation of #Question#,1,0.9999522,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00093263603,0,0.0016445352544316044
+1,easy,Misinterpretation of #Question#,1,0.99995124,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.34086904,0,0.11699863376893586
+1,medium,Misinterpretation of #Question#,1,0.9999387,1,0.999536354422926
+0,easy,Misinterpretation of #Question#,0,0.00012243443,0,0.00022272125615308786
+1,easy,Misinterpretation of #Question#,1,0.99995375,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0001666882,0,0.0001608697576031442
+1,hard,Misinterpretation of #Question#,1,0.99995446,1,0.9997814398760436
+0,easy,Incomplete Information,0,0.00093263603,0,0.000970814658458022
+1,easy,Incomplete Information,1,0.9999459,1,0.9996855122313498
+0,medium,Misinterpretation of #Question#,0,0.00021654405,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999542,1,0.9997777832536523
+0,easy,Misinterpretation of #Question#,0,0.00027372167,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999454,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00019222713,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999417,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00021277169,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.99995303,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.0001603035,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9653158,0,0.42036762238372777
+0,hard,Misinterpretation of #Question#,0,0.00013083976,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999521,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00014482439,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999509,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00084924564,0,0.000970814658458022
+1,hard,Misinterpretation of #Question#,1,0.99995124,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.13568954,0,0.12313994117613081
+1,hard,Misinterpretation of #Question#,1,0.9992022,1,0.9939094762913169
+0,easy,Misinterpretation of #Question#,0,0.00014091855,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999465,1,0.9996855122313498
+0,easy,Misinterpretation of #Question#,0,0.00025764454,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999515,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.000506292,0,0.0005158587352580551
+1,hard,Incomplete Information,1,0.9999355,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00015659066,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99995613,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00012533751,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9997284,1,0.9997899901143034
+0,easy,Incomplete Information,0,0.00021909605,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.9999503,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00017917773,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999534,1,0.9996855122313498
+0,hard,Misinterpretation of #Question#,0,0.0039148238,0,0.005696299521658077
+1,hard,Misinterpretation of #Question#,1,0.99985623,1,0.9998071257227927
+0,hard,Misinterpretation of #Question#,0,0.00096033677,0,0.0010919512971343467
+1,hard,Misinterpretation of #Question#,1,0.9999292,1,0.9996855122313498
+0,hard,Misinterpretation of #Question#,0,0.00045563653,0,0.0002112441907390991
+1,hard,Misinterpretation of #Question#,1,0.99994814,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.0011291546,0,0.000970814658458022
+1,hard,Misinterpretation of #Question#,1,0.999928,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.0006654022,0,0.0008037926128671148
+1,medium,Misinterpretation of #Question#,1,0.9999311,1,0.9997814398760436
+0,hard,Incomplete Information,0,0.0003250359,0,0.00017372671307506324
+1,hard,Incomplete Information,1,0.99994373,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00027966435,0,0.00016279055153758712
+1,medium,Incomplete Information,1,0.99991906,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.021084841,0,0.07405833624553176
+1,easy,Misinterpretation of #Question#,1,0.9999454,1,0.9997993955457222
+0,hard,Incomplete Information,0,0.01395571,0,0.09661023233382242
+1,hard,Incomplete Information,0,0.38580844,0,0.11699863376893586
+0,easy,Misinterpretation of #Question#,0,0.00067324063,0,0.0009898558154239827
+1,easy,Misinterpretation of #Question#,1,0.9922144,1,0.944236154185366
+0,hard,Misinterpretation of #Question#,0,0.00018924748,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999012,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00041568946,0,0.00019149175021325658
+1,medium,Misinterpretation of #Question#,1,0.9999311,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.0001723147,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,0,0.0012375797,0,0.0020383989231367366
+0,medium,Incomplete Information,0,0.00012982171,0,0.0001872672361119608
+1,medium,Incomplete Information,1,0.9998845,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00030534895,0,0.00022774538631930005
+1,medium,Misinterpretation of #Question#,1,0.99994814,1,0.9997899901143034
+0,easy,Incomplete Information,0,0.00024632958,0,0.0001698940482156057
+1,easy,Incomplete Information,1,0.9999118,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00016124539,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999206,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00018777506,0,0.0001559358858279805
+1,hard,Misinterpretation of #Question#,1,0.999941,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00013765463,0,0.00022272125615308786
+1,hard,Incomplete Information,1,0.9999008,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.00015296381,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99995244,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.0005336929,0,0.000970814658458022
+1,medium,Misinterpretation of #Question#,1,0.99994123,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00025365117,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9998902,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00014942093,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.9999491,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.0019608354,0,0.004442042585481192
+1,easy,Misinterpretation of #Question#,1,0.9999515,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00015843622,0,0.00033618083525215785
+1,hard,Misinterpretation of #Question#,1,0.9999515,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.0001634647,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999435,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00015905623,0,0.00022272125615308786
+1,hard,Misinterpretation of #Question#,1,0.9999542,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00011959858,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999541,1,0.9997814398760436
+0,easy,Incomplete Information,0,0.00039977106,0,0.00015945371666406234
+1,easy,Incomplete Information,1,0.9999367,1,0.9997276816509192
+0,easy,Misinterpretation of #Question#,0,0.00027803096,0,0.00017372671307506324
+1,easy,Misinterpretation of #Question#,1,0.9999337,1,0.9998178777631966
+0,easy,Mechanism and Pathway Misattribution,0,0.00020662982,0,0.0001872672361119608
+1,easy,Mechanism and Pathway Misattribution,1,0.9999138,1,0.9998215250513424
+0,easy,Misinterpretation of #Question#,0,0.00023597175,0,0.00018159857487702437
+1,easy,Misinterpretation of #Question#,1,0.99994457,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.01712732,0,0.07405553798546387
+1,medium,Misinterpretation of #Question#,1,0.9999496,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.0005102608,0,0.000970814658458022
+1,easy,Misinterpretation of #Question#,1,0.99995077,1,0.9997877352613186
+0,medium,Misinterpretation of #Question#,0,0.0001349925,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999465,1,0.9995384260655191
+0,medium,Misinterpretation of #Question#,0,0.0003974364,0,0.00017372671307506324
+1,medium,Misinterpretation of #Question#,1,0.9999435,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00020422302,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999534,1,0.9997777832536523
+0,medium,Incomplete Information,0,0.00032440183,0,0.0002112441907390991
+1,medium,Incomplete Information,1,0.99987173,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00024874636,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999541,1,0.9997899901143034
+0,easy,Misinterpretation of #Question#,0,0.00028629453,0,0.00019149175021325658
+1,easy,Misinterpretation of #Question#,1,0.9999132,1,0.9997814398760436
+0,hard,Mechanism and Pathway Misattribution,0,0.00012830943,0,0.0001872672361119608
+1,hard,Mechanism and Pathway Misattribution,1,0.99995375,1,0.9997777832536523
+0,medium,Incomplete Information,0,0.00010554686,0,0.00022272125615308786
+1,medium,Incomplete Information,1,0.9999484,1,0.9996855122313498
+0,medium,Misinterpretation of #Question#,0,0.0005636751,0,0.000970814658458022
+1,medium,Misinterpretation of #Question#,1,0.99994147,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00024346045,0,0.0002456942394455016
+1,hard,Misinterpretation of #Question#,1,0.9999534,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00015296381,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999517,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.0018422535,0,0.0020383989231367366
+1,easy,Misinterpretation of #Question#,1,0.9998005,1,0.9998178777631966
+0,medium,Mechanism and Pathway Misattribution,0,0.00011913237,0,0.0001872672361119608
+1,medium,Mechanism and Pathway Misattribution,1,0.9999484,1,0.9998178777631966
+0,medium,Mechanism and Pathway Misattribution,0,0.00019949314,0,0.0001698940482156057
+1,medium,Mechanism and Pathway Misattribution,1,0.9999528,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00021029334,0,0.00018159857487702437
+1,hard,Misinterpretation of #Question#,0,0.001648483,0,0.005512197390440707
+0,medium,Incomplete Information,0,0.00016571455,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.99988043,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.0006011795,0,0.0010469498594979953
+1,medium,Misinterpretation of #Question#,0,0.33886978,1,0.7866486565609578
+0,medium,Misinterpretation of #Question#,0,0.00016799536,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99993694,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.05850701,0,0.11782024397683208
+1,medium,Misinterpretation of #Question#,1,0.9999076,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00020662982,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.99995255,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,1,0.995008,1,0.944236154185366
+1,medium,Misinterpretation of #Question#,1,0.99995685,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00022826715,0,0.00022272125615308786
+1,hard,Incomplete Information,1,0.9999535,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.0020587533,0,0.004793892168004486
+1,hard,Misinterpretation of #Question#,1,0.99994814,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.009670992,0,0.013703217295186684
+1,medium,Misinterpretation of #Question#,1,0.9999485,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00012339458,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.9999453,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00014313738,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999274,1,0.9997276816509192
+0,medium,Misinterpretation of #Question#,0,0.0002203833,0,0.0003695310107642616
+1,medium,Misinterpretation of #Question#,1,0.99991906,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.00063247676,0,0.0009328697050809108
+1,hard,Misinterpretation of #Question#,1,0.9999331,1,0.9998178777631966
+0,easy,Incomplete Information,0,0.00017298904,0,0.0001872672361119608
+1,easy,Incomplete Information,1,0.99994636,1,0.9997398768819856
+0,easy,Misinterpretation of #Question#,0,0.00027748864,0,0.00017372671307506324
+1,easy,Misinterpretation of #Question#,1,0.99995303,1,0.9997993955457222
+0,easy,Incomplete Information,0,0.000461005,0,0.0001856952348374686
+1,easy,Incomplete Information,1,0.9999374,1,0.9997899901143034
+0,medium,Mechanism and Pathway Misattribution,0,0.00023551143,0,0.0001872672361119608
+1,medium,Mechanism and Pathway Misattribution,1,0.9999515,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.002282775,0,0.009759607563873092
+1,medium,Misinterpretation of #Question#,1,0.99972945,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00014710471,0,0.0001872672361119608
+1,medium,Incomplete Information,1,0.9999505,1,0.9997899901143034
+0,hard,Incomplete Information,0,0.0003327413,0,0.0001856952348374686
+1,hard,Incomplete Information,1,0.9999479,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00028075863,0,0.0001920137739112038
+1,medium,Misinterpretation of #Question#,1,0.99992657,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00020263405,0,0.0001698940482156057
+1,easy,Misinterpretation of #Question#,1,0.99987316,1,0.9997993955457222
+0,medium,Incomplete Information,0,0.00012931562,0,0.0001872672361119608
+1,medium,Incomplete Information,1,0.9999509,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00015476662,0,0.00020658400657969187
+1,easy,Misinterpretation of #Question#,1,0.99994874,1,0.9998178777631966
+0,easy,Misinterpretation of #Question#,0,0.00027159214,0,0.00018159857487702437
+1,easy,Misinterpretation of #Question#,1,0.99989486,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.0048674173,0,0.010257149650831009
+1,hard,Misinterpretation of #Question#,1,0.99994504,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00022341634,0,0.00028243811445206814
+1,easy,Misinterpretation of #Question#,1,0.99995124,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00013238186,0,0.0001872672361119608
+1,medium,Misinterpretation of #Question#,1,0.9999534,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00017571275,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,0,0.0052099936,0,0.011165192624755538
+0,medium,Misinterpretation of #Question#,0,0.0003138109,0,0.00017372671307506324
+1,medium,Misinterpretation of #Question#,1,0.9999517,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.00023050672,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.9999448,1,0.9997777832536523
+0,medium,Misinterpretation of #Question#,0,0.00013982208,0,0.0001559358858279805
+1,medium,Misinterpretation of #Question#,1,0.9999511,1,0.9997899901143034
+0,medium,Incomplete Information,0,0.00021995336,0,0.0001698940482156057
+1,medium,Incomplete Information,1,0.9981614,1,0.9843053261250366
+0,hard,Misinterpretation of #Question#,0,0.00014942093,0,0.00018159857487702437
+1,hard,Misinterpretation of #Question#,1,0.99993944,1,0.9997993955457222
+0,hard,Misinterpretation of #Question#,0,0.00012780925,0,0.0001698940482156057
+1,hard,Misinterpretation of #Question#,1,0.999949,1,0.9997814398760436
+0,easy,Misinterpretation of #Question#,0,0.00077330566,0,0.000970814658458022
+1,easy,Misinterpretation of #Question#,1,0.9998148,1,0.9997993955457222
+0,easy,Misinterpretation of #Question#,0,0.00014257943,0,0.0001872672361119608
+1,easy,Misinterpretation of #Question#,1,0.999943,1,0.9997814398760436
+0,medium,Misinterpretation of #Question#,0,0.00017640034,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99992657,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00046461902,0,0.0002112441907390991
+1,medium,Misinterpretation of #Question#,1,0.99987805,1,0.9998178777631966
+0,medium,Incomplete Information,0,0.00015266538,0,0.0001872672361119608
+1,medium,Incomplete Information,1,0.9999471,1,0.9997428618286696
+0,medium,Misinterpretation of #Question#,0,0.00020303014,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.9999012,1,0.9998178777631966
+0,hard,Misinterpretation of #Question#,0,0.015424551,0,0.09012978769610103
+1,hard,Misinterpretation of #Question#,1,0.9999567,1,0.9998178777631966
+0,hard,Incomplete Information,0,0.00013446629,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.99995303,1,0.9998215250513424
+0,hard,Incomplete Information,0,0.0001172856,0,0.0001872672361119608
+1,hard,Incomplete Information,1,0.9999424,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00059766934,0,0.0008037926128671148
+1,hard,Misinterpretation of #Question#,1,0.9999528,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00020502215,0,0.0001591991159476348
+1,hard,Misinterpretation of #Question#,1,0.99994075,1,0.9997814398760436
+0,hard,Misinterpretation of #Question#,0,0.0001634647,0,0.0001872672361119608
+1,hard,Misinterpretation of #Question#,1,0.9999362,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00018378458,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99993134,1,0.9997899901143034
+0,medium,Misinterpretation of #Question#,0,0.00017917773,0,0.0001698940482156057
+1,medium,Misinterpretation of #Question#,1,0.99994373,1,0.9997899901143034
+0,hard,Misinterpretation of #Question#,0,0.00081355654,0,0.0019960615207431625
+1,hard,Misinterpretation of #Question#,1,0.9998876,1,0.9997993955457222
+0,medium,Misinterpretation of #Question#,0,0.00029023446,0,0.00019149175021325658
+1,medium,Misinterpretation of #Question#,1,0.9997868,1,0.9998131569779988
+0,easy,Misinterpretation of #Question#,0,0.00018093578,0,0.00033618083525215785
+1,easy,Misinterpretation of #Question#,1,0.9999496,1,0.9998178777631966
+0,medium,Misinterpretation of #Question#,0,0.00037702857,0,0.00016279055153758712
+1,medium,Misinterpretation of #Question#,1,0.99992883,1,0.9998178777631966

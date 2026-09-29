@@ -1,0 +1,121 @@
+{
+  "length_stats": {
+    "train": {
+      "correct_median_words": 34.0,
+      "halluc_median_words": 22.0,
+      "correct_mean_words": 37.5,
+      "halluc_mean_words": 27.7
+    },
+    "test": {
+      "correct_median_words": 37.0,
+      "halluc_median_words": 23.0,
+      "correct_mean_words": 39.7,
+      "halluc_mean_words": 27.8
+    }
+  },
+  "length_only": {
+    "macro_f1": 0.717,
+    "auroc": 0.7396,
+    "hard_f1": 0.7341
+  },
+  "style_features": {
+    "macro_f1": 0.7929,
+    "auroc": 0.8748,
+    "hard_f1": 0.7959
+  },
+  "style_coefficients": {
+    "log_words": -1.83,
+    "log_chars": 1.398,
+    "hedges": -0.896,
+    "n_sents": -0.626,
+    "parens": 0.618,
+    "avg_word_len": 0.404,
+    "certainty": 0.38,
+    "commas": 0.264,
+    "digits": 0.215,
+    "negations": -0.036,
+    "starts_yes_no": -0.023
+  },
+  "tfidf_answer_only": {
+    "macro_f1": 0.9073,
+    "auroc": 0.9744,
+    "hard_f1": 0.9018
+  },
+  "tfidf_top_hallucinated": [
+    "significantly",
+    "significant",
+    "enhances",
+    "rather",
+    "rather than",
+    "due to",
+    "compared to",
+    "due",
+    "indicating",
+    "primarily",
+    "particularly",
+    "inversely",
+    "enhancing",
+    "direct",
+    "compared",
+    "increases",
+    "through",
+    "predominantly",
+    "rates",
+    "exacerbates",
+    "shown",
+    "levels",
+    "enhances the",
+    "leading to",
+    "leading",
+    "no significant",
+    "exhibit",
+    "not significantly",
+    "is inversely",
+    "such as"
+  ],
+  "tfidf_top_correct": [
+    "may",
+    "and",
+    "be",
+    "was",
+    "or",
+    "that",
+    "our",
+    "results",
+    "we",
+    "an",
+    "these",
+    "of",
+    "this",
+    "for",
+    "were",
+    "should",
+    "might",
+    "could",
+    "data",
+    "may be",
+    "further",
+    "important",
+    "these results",
+    "compared with",
+    "can",
+    "findings",
+    "suggest",
+    "of the",
+    "this study",
+    "have"
+  ],
+  "overlap_with_evidence": {
+    "macro_f1": 0.4901,
+    "auroc": 0.4777,
+    "hard_f1": 0.5061
+  },
+  "overlap_means": {
+    "correct": 0.4957,
+    "hallucinated": 0.4819
+  },
+  "tfidf_halueval": {
+    "macro_f1": 0.1831,
+    "auroc": 0.1312
+  }
+}

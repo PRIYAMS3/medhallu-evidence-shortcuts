@@ -1,0 +1,62 @@
+{
+ "original": {
+  "correct_passage": {
+   "macro_f1": 0.807,
+   "auroc": 0.9049,
+   "pairwise_acc": 0.8963,
+   "correct_flagged": 0.2699
+  },
+  "unrelated_passage": {
+   "macro_f1": 0.3345,
+   "auroc": 0.5005,
+   "pairwise_acc": 0.001,
+   "correct_flagged": 0.999
+  },
+  "no_passage": {
+   "macro_f1": 0.5443,
+   "auroc": 0.5529,
+   "pairwise_acc": 0.5448,
+   "correct_flagged": 0.422
+  }
+ },
+ "correct_restyled": {
+  "correct_passage": {
+   "macro_f1": 0.7492,
+   "auroc": 0.8633,
+   "pairwise_acc": 0.8399,
+   "correct_flagged": 0.3807
+  },
+  "unrelated_passage": {
+   "macro_f1": 0.3345,
+   "auroc": 0.5015,
+   "pairwise_acc": 0.003,
+   "correct_flagged": 0.999
+  },
+  "no_passage": {
+   "macro_f1": 0.4609,
+   "auroc": 0.4627,
+   "pairwise_acc": 0.4431,
+   "correct_flagged": 0.5881
+  }
+ },
+ "both_swapped": {
+  "correct_passage": {
+   "macro_f1": 0.7019,
+   "auroc": 0.7866,
+   "pairwise_acc": 0.7533,
+   "correct_flagged": 0.3776
+  },
+  "unrelated_passage": {
+   "macro_f1": 0.3345,
+   "auroc": 0.5015,
+   "pairwise_acc": 0.003,
+   "correct_flagged": 0.999
+  },
+  "no_passage": {
+   "macro_f1": 0.361,
+   "auroc": 0.3394,
+   "pairwise_acc": 0.3202,
+   "correct_flagged": 0.5811
+  }
+ }
+}

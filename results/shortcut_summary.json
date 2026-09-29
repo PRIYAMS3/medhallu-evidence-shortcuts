@@ -1,0 +1,26 @@
+{
+  "full": {
+    "condition": "full",
+    "macro_f1": 0.965,
+    "hard_f1": 0.962,
+    "auroc": 0.9939
+  },
+  "answer_only": {
+    "condition": "answer_only",
+    "macro_f1": 0.952,
+    "hard_f1": 0.9485,
+    "auroc": 0.9927
+  },
+  "evidence_only": {
+    "condition": "evidence_only",
+    "macro_f1": 0.3333,
+    "hard_f1": 0.3333,
+    "auroc": 0.5
+  },
+  "shuffled": {
+    "condition": "shuffled",
+    "macro_f1": 0.9495,
+    "hard_f1": 0.9399,
+    "auroc": 0.9925
+  }
+}

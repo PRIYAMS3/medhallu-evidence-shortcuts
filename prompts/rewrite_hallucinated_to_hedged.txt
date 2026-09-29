@@ -1,0 +1,10 @@
+Rewrite the answer below to a biomedical research question.
+
+Keep the meaning and every claim exactly the same, including any claim that is wrong. Do not add or remove any fact, number, drug, gene, population, mechanism or outcome, and do not correct anything.
+Change only the style: write it the way the authors of a study would phrase the conclusion of their abstract, in the first person plural, with cautious academic hedging (for example "our results suggest", "may", "these findings indicate", "further studies are needed").
+Aim for about {n} words.
+
+Answer:
+{answer}
+
+Rewritten answer:

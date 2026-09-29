@@ -1,0 +1,120 @@
+{
+ "n_train_pairs": 16000,
+ "n_test_pairs": 4000,
+ "question_overlap": 0,
+ "tfidf_answer_only": {
+  "macro_f1": 0.9254,
+  "auroc": 0.9661,
+  "pairwise_acc": 0.9615,
+  "correct_flagged": 0.046
+ },
+ "length_only": {
+  "macro_f1": 0.947,
+  "auroc": 0.9725,
+  "pairwise_acc": 0.961,
+  "correct_flagged": 0.0485
+ },
+ "per_run": [
+  {
+   "condition": "full",
+   "seed": 42,
+   "macro_f1": 0.994,
+   "auroc": 0.997,
+   "pairwise_acc": 0.9985,
+   "correct_flagged": 0.002,
+   "test_time_shuffled": {
+    "macro_f1": 0.495,
+    "auroc": 0.9856,
+    "pairwise_acc": 0.9845,
+    "correct_flagged": 0.833
+   },
+   "test_time_evidence_removed": {
+    "macro_f1": 0.573,
+    "auroc": 0.9864,
+    "pairwise_acc": 0.9835,
+    "correct_flagged": 0.736
+   }
+  },
+  {
+   "condition": "full",
+   "seed": 123,
+   "macro_f1": 0.9945,
+   "auroc": 0.9982,
+   "pairwise_acc": 0.999,
+   "correct_flagged": 0.002
+  },
+  {
+   "condition": "full",
+   "seed": 456,
+   "macro_f1": 0.994,
+   "auroc": 0.9989,
+   "pairwise_acc": 0.9995,
+   "correct_flagged": 0.004
+  },
+  {
+   "condition": "answer_only",
+   "seed": 42,
+   "macro_f1": 0.9805,
+   "auroc": 0.9882,
+   "pairwise_acc": 0.986,
+   "correct_flagged": 0.004
+  },
+  {
+   "condition": "answer_only",
+   "seed": 123,
+   "macro_f1": 0.98,
+   "auroc": 0.9884,
+   "pairwise_acc": 0.986,
+   "correct_flagged": 0.0065
+  },
+  {
+   "condition": "answer_only",
+   "seed": 456,
+   "macro_f1": 0.9802,
+   "auroc": 0.9881,
+   "pairwise_acc": 0.9855,
+   "correct_flagged": 0.007
+  },
+  {
+   "condition": "shuffled",
+   "seed": 42,
+   "macro_f1": 0.9805,
+   "auroc": 0.9873,
+   "pairwise_acc": 0.9855,
+   "correct_flagged": 0.0055
+  },
+  {
+   "condition": "shuffled",
+   "seed": 123,
+   "macro_f1": 0.9807,
+   "auroc": 0.9881,
+   "pairwise_acc": 0.984,
+   "correct_flagged": 0.005
+  },
+  {
+   "condition": "shuffled",
+   "seed": 456,
+   "macro_f1": 0.979,
+   "auroc": 0.9876,
+   "pairwise_acc": 0.9865,
+   "correct_flagged": 0.0095
+  }
+ ],
+ "summary": {
+  "full": {
+   "macro_f1_mean": 0.9942,
+   "macro_f1_sd": 0.0003,
+   "auroc_mean": 0.998
+  },
+  "answer_only": {
+   "macro_f1_mean": 0.9802,
+   "macro_f1_sd": 0.0003,
+   "auroc_mean": 0.9882
+  },
+  "shuffled": {
+   "macro_f1_mean": 0.9801,
+   "macro_f1_sd": 0.0009,
+   "auroc_mean": 0.9877
+  }
+ }
+}

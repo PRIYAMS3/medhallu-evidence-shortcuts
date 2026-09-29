@@ -1,0 +1,6 @@
+{
+  "condition": "evidence_only",
+  "macro_f1": 0.3333,
+  "hard_f1": 0.3333,
+  "auroc": 0.5
+}

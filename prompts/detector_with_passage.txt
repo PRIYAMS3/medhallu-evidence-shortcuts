@@ -1,0 +1,12 @@
+You are checking an answer to a biomedical research question against a source passage.
+
+Passage:
+{k}
+
+Question:
+{q}
+
+Answer:
+{a}
+
+Is the answer correct and supported by the passage? Reply with Yes or No only.

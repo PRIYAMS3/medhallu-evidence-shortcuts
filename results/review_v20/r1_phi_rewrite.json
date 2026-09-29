@@ -1,0 +1,9 @@
+{
+ "items_excluded_nonenglish_or_empty": 0,
+ "items_kept": 1000,
+ "correct_orig_entails_rewrite_pct": 98.3,
+ "correct_rewrite_median_words": 26.0,
+ "halluc_rewrite_median_words": 40.0,
+ "correct_rewrite_hedges_per_answer": 0.13,
+ "halluc_rewrite_hedges_per_answer": 4.5
+}
